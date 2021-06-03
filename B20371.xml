@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The city-law, or, the course and practice in all manner of juridicall proceedings in the hustings in Guild-Hall, London]</title>
+         </titleStmt>
+         <extent>Approx. 130KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20371</idno><idno type="EEBO-CITATION">99835822</idno>
+  <idno type="VID">176640</idno>
+  <idno type="EEBO-PROQUEST">2240894075</idno>
+  <idno type="STC">Wing C4353</idno>
+  <idno type="STC">Thomason E.397[4]</idno>
+  <idno type="STC">ESTC R210027</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835822e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 580:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The city-law, or, the course and practice in all manner of juridicall proceedings in the hustings in Guild-Hall, London]</title>
+               </titleStmt>
+               <extent>[8], 69, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, for L. Chapman, and L. Blaiklocke, and are to be sold at their shops, at Temple-Barre, and at the next doore to the Fountaine Taverne in the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title suggested by Wing.</note>
+                  <note>Formerly identified as STC 16746.</note>
+                  <note>Imperfect: lacks title page and prelims, and has considerable print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Customary law --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176640:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:176640:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:176640:2"/>
+            <pb facs="tcp:176640:2"/>
+            <head>THE ANCIENT CUSTOMES AND <hi>Approved Usages of the Honourable City</hi> OF LONDON.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Mayors Court is held by custome of the City before the Mayor and Al<g ref="char:EOLhyphen"/>dermen that are for the time, in the Chamber of Guild-Hall, or in the Ha<g ref="char:EOLhyphen"/>stings, from day to day at their will. There are treated determined, and dis<g ref="char:EOLhyphen"/>cussed, the pleas and matters touching Orphans, Apprentices, and other businesses of the same City; And there also are redressed and corrected the de<g ref="char:EOLhyphen"/>faults and misprisions of such things which are against
+<pb n="2" facs="tcp:176640:3"/> the Customes and Ordinances of the City, as well at the suite of the party, as by enquest of office, and in other manner by suggestion, according as the cases demand. And there they use to order the Bakers, Brewers, Victual<g ref="char:EOLhyphen"/>lers, and Tradesmen, and to treat and ordaine for the Go<g ref="char:EOLhyphen"/>vernment of the City, and for maintenance of the peace of our Soveraign Lord the King, and other points necessa<g ref="char:EOLhyphen"/>ry concerning the said City, by their discretion, and ac<g ref="char:EOLhyphen"/>cording to that the time requires.</p>
+            <p>
+               <note place="margin">Of the Mini<g ref="char:EOLhyphen"/>sters of the Ci<g ref="char:EOLhyphen"/>ty.</note>
+               <hi>Item,</hi> the Officers and Ministers of the said City, be<g ref="char:EOLhyphen"/>ing found in default, are justifiable before the Mayor and Aldermen, as well at the suite of the parties, by ptocesse made, as in other manner, according to the said Mayor and Aldermens discretion.</p>
+            <p>
+               <note place="margin">Of Actions of Debt.</note>
+               <hi>Item,</hi> the said Mayor and Aldermen have used there also to hold and determine pleas of Debt and Actions personall whatsoever by bill, aswell between Merchants and Merchants, for merchandize, as betweene others that will take them by process made against the parties.</p>
+            <p>
+               <note place="margin">Of recognisan<g ref="char:EOLhyphen"/>ces and execu<g ref="char:EOLhyphen"/>tions thereup<g ref="char:EOLhyphen"/>on.</note>
+               <hi>Item,</hi> the Mayor and Aldermen, or the Mayor and Chamberlain of the City, may take before them in the said chamber a Recognizance of Debt, of all such as will make any, and of what sums soever; And if the day of payment be incurred, then he to whom the Recognizance is made, out of this Record, shall have execution of all the goods of the Debtor, and the moity of all the Tene<g ref="char:EOLhyphen"/>ments within the said city by extent; and at a certain rate according to the course of the common Law,</p>
+            <p>
+               <hi>Item,</hi> pleas of Debt,<note place="margin">Of pleas of Debt.</note> according to the Ordinance, called <hi>The Statute of Smithfield,</hi>
+               <note place="margin">Stat. of Smithfield.</note> are determinable one<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y before the Mayor and Aldermen, according to that which is more fully contained in the Ordinance thereof made.</p>
+            <p>
+               <note place="margin">Of Assiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Nusances.</note>
+               <hi>Item,</hi> the Assizes of Nusancee are determinable by bill before the Mayor and Aldermen, which bill shall bee served by the Sheriffes, And the parties shall be summo<g ref="char:EOLhyphen"/>ned on the Wednesday against the Fryday, and then the
+<pb n="3" facs="tcp:176640:3"/> Mayor and Aldermen ought to proceed in plea, according as is contained in the Ordinance of assize, of Nusance in the said City.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Of making of Ordinances.</note> the Mayor and Aldermen have alwayes used to make pena<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Ordinances upon victuals, and for other the government of the said City and of the peace, according to their discretion and advise, and to proclaime the same Ordinances within the said City openly for to be held &amp; kept in the name of our Soveraign Lord the King, and of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> City, upon pain thereof ordained, and the same paines to levie of all such as do against the Ordinances a<g ref="char:EOLhyphen"/>fore<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid, &amp;c.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Of Male<g ref="char:EOLhyphen"/>factors.</note> the Mayor and Aldermen have alwayes used to cause to come before them▪ the Malefactors which have been taken▪ and arrested within the said City, for c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrying of tales, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>preading abroad o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we imagin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in di<g ref="char:EOLhyphen"/>sturbance of the peace, makers and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eiter of false Seales, and fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or other no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects, and those which <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound culpable o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> such mis<g ref="char:EOLhyphen"/>deed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by confession o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s or by enquest thereof mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be pun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by setting in the pillory, or fur<g ref="char:EOLhyphen"/>ther chasti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y imprisonment acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to their merit, and according t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the rea<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>able d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the said Mayor and Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Of change of p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ces, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eviating of delayes.</note> the Mayor and Aldermen may by usage of the said City change p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces, and abridge de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in Action<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> personal, as well before themsel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and in the Sheriffes Court, and make new Ordinances such personal p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eas, the which Ordinances they conceive to be reasonable &amp; pro<g ref="char:EOLhyphen"/>fitable to the people.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">That the City of London, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> held of our So<g ref="char:EOLhyphen"/>vereign Lord the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, in free bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gage.</note> it is to be understood that all the city of <hi>London</hi> is held of our Lord the King in free burgage▪ and wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout mesne; And all the Lands and Tenements Rents and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:EOLunhyphen"/>vices within the said City and the Suburbs thereof, as well in rendition, as in demeasne, are devisable by usage of the said City; So that men and women by usage of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he said City, may devise their tenements, rents, and re<g ref="char:EOLhyphen"/>versions
+<pb n="4" facs="tcp:176640:4"/> within the said City, and Suburbs thereof, to whom they will, and of what estate they will, And may also devise a new rent to rise from their tenements, in manner as they like best, And th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e which are Free-men of the same City, may devise▪ their tenements in mort<g ref="char:EOLhyphen"/>main, as appeareth by the Charter of the King thereof made.</p>
+            <p>
+               <note place="margin">That infants within age, nor women covert baron, may not devise.</note>
+               <hi>Item,</hi> He that holdeth tenements with others, may de<g ref="char:EOLhyphen"/>vise that which to him belongeth without more adoe. But Infants within age may not make a devise, nor wo<g ref="char:EOLhyphen"/>men covert may not devise their tenements by license of their husbands, nor in other manner during the cover<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <note place="margin">That a man cannot devise his tenements to his wife, but for tearme of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>se.</note>
+               <hi>Item,</hi> the husband may not devise his tenements to his wife for a higher estate then for terme of life, and the wife cannot claime other estate, upon pain to lose the whole. Neither may the husband devise the tenements descended to his wife, nor the tenements which the hus<g ref="char:EOLhyphen"/>band and the wife have joyntly purchased. But if the hus<g ref="char:EOLhyphen"/>band and the wife have tenements joyntly to them, and to the heires of the husband, the husband may devise the reversion. All testaments by which any tenements be de<g ref="char:EOLhyphen"/>vised, may be inrolled in the Hastings of Record, at the suite of any which may take advantage by the same te<g ref="char:EOLhyphen"/>staments. And the testaments which ought so to bee en<g ref="char:EOLhyphen"/>rolled, shall be brought before the Mayor and Aldermen in full Hasting, and there shall the said testaments be pro<g ref="char:EOLhyphen"/>claimed by the Serjeant, and the same also to bee proved by two discreet men well knowne, the which shall bee sworn, and examined of all the circumstances of the said Testaments and of the estate of the Testator, and of his seale, and if the proofe be found good and loyall and a<g ref="char:EOLhyphen"/>greeable, then shall the said Testament bee inrolled in the same hasting of record and the fee shall be payed for the inrolment, and no Testament <hi>nuncupative</hi>
+               <note place="margin">Testaments nunc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pative.</note> nor other Testament may be enrolled of record except that the seale of the Testator be put to the same Testament. But
+<pb n="5" facs="tcp:176640:4"/> the testaments that may be found good and loyall are effectuall, although they bee not enrolled, nor of re<g ref="char:EOLhyphen"/>cord.</p>
+            <p>
+               <hi>Item,</hi> The testaments within the said City,<note place="margin">Of testaments defective, yet effectuall.</note> ought by custome of the same City, to be adjudged effectual, and executory, having regard to the Testators Wills, al<g ref="char:EOLhyphen"/>though that the words of such Testaments be defective, and not according to the common law.</p>
+            <p>
+               <hi>Item,</hi> where a reversion or rent be devised by testa<g ref="char:EOLhyphen"/>ments enrolled of record in the Hastings,<note place="margin">Of Rent devi<g ref="char:EOLhyphen"/>sed by testa<g ref="char:EOLhyphen"/>ment.</note> the same rever<g ref="char:EOLhyphen"/>sions and rents passe presently after the death of the Testator; so as those to whom such rents be devised, may distreine for their rents, and make avoury, &amp; those in reversion may sue a Writ of waste at their will with<g ref="char:EOLhyphen"/>out other attournment of the Tenants. And they may plead for the same en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollments, if need be, although they have not the said testaments in hand. And the same Custome holdeth place of Charters, Indentures, and o<g ref="char:EOLhyphen"/>ther Writings inrolled in Hastings of Record, and such inrollments have alwayes been used; so that the testa<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s bee proclaimed and proved in fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Hast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs as a<g ref="char:EOLhyphen"/>foresaid. And the Charters, Indentures, and other Wri<g ref="char:EOLhyphen"/>tings en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealed may be accepted. And the conusances &amp; confessions of women, have beene received before the Mayor and one Alderman, or before the Recorder and one Alderman, or before two Aldermen for necessity, as well out of the Court, as in; So that the same Charters, Ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntures and other Writings so acknowledged, bee after entred and enrol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in some of the Hastings, and the Fees thereof paid, as the manner is.</p>
+            <p>
+               <hi>Item,</hi> where a man hath devised by his Testament,<note place="margin">Rent devised without clause of distresse.</note> enrolled a certaine Rent to arise out of his Tenements within the said City, without clause of distresse: yet by usage of the City, he to whom the devise is made, may distraine, and avow the taking if the rent be behind. And in the same manner shall be done, of all antient rents, called quit rents, within the same City.</p>
+            <pb n="6" facs="tcp:176640:5"/>
+            <p>
+               <note place="margin">Of Orphans.</note>
+               <hi>Item,</hi> the Mayor and Aldermen t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at are for the time by custome of the City, shall have the Wardships and Marriages of all the Orphans of the said City, after the death of their Ancestors, although the same Ancestors do hold to them, and the City of any other Lord, by what service soever.</p>
+            <p>And the same Mayor and Aldermen ought to enquire of all the Lands and Tenements, Goods and Chattels, within the said City, appertaining to such Orphans and safely keep them to the u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and profit of such Orphans, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> otherwi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e commit the same Orphans, together w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Lands and Tenements Goods and Chattels, to o<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s their friends by sufficient Surety found of record in the Chamber of Guild Hall, to maint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veni<g ref="char:EOLhyphen"/>ent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the said Orphans, dur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng their nonage, and their Lands and Tenements to repaire, and the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Goods and Chattels safe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to keepe; and thereof to render a good and l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yall accompt before the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Mayor and Al<g ref="char:EOLhyphen"/>dermen, to the profit o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the same In arts, when they shall come to their age, or when they shall be put to a mystery, or shall marry by the advise o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the said May<g ref="char:EOLhyphen"/>or and Aldermen.</p>
+            <p>And that in all cases, except that it be otherwise or<g ref="char:EOLhyphen"/>da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned and di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>posed for the same Orp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans, or for their Lands and Tenements, Good<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tels by expresse words, contained in the Testaments of their Ance<g ref="char:EOLhyphen"/>stors.</p>
+            <p>
+               <note place="margin">To marry by the assent of the Mayor.</note>And no such Orphans ought to be marryed without the assent of the said Mayor and Aldermen. And also where Lands or Tenements, Goods &amp; Chattels within the same City, are devi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to an Infant w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thin age, of one City, or of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame City, living his Father, that such an Infant is no Orphan: yet dy usage of the said City, the said Lands and Tenements, Goods and Chattels, shall be in custody of the Mayor and Aldermen, aswell as of Orphans to maintain and keepe them to the use &amp; profit of the same Infant; except that the Father of the
+<pb n="7" facs="tcp:176640:5"/> Infant, or some other of his friends, will find sufficient surety of record to maintaine and keepe the said Lands and Tenements, Good<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Chattels, to the use and pro<g ref="char:EOLhyphen"/>fit of the said Infant; and thereof to render a good and loyall accompt, as is aforesaid.</p>
+            <p>And it is to be understood,<note place="margin">That the goods of the testator shall be parted into three parts.</note> that where a Citizen of the same City hath a wife and children, and dyes; all the goods and chattels of the sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d party deceased, after his debts be paid, shall be divided into three parts; where<g ref="char:EOLhyphen"/>of, one shall remain to the dead, and shall be distributed for his Soules benefit; and the other part, shall bee to his wife: and the third part to his children, to bee e<g ref="char:EOLhyphen"/>qually shared betweene them; notwithstanding any Will made to the contrary.</p>
+            <p>And therefore, as well the wife, as the children,<note place="margin">No devise to the contrary.</note> may have their recovery and suit to demand such goods and chattels against the Executors, or other Possessors of the said goods and chattels, before the same Mayor and Al<g ref="char:EOLhyphen"/>dermen by Bill.</p>
+            <p>
+               <hi>Item,</hi> By ancient custome of the City,<note place="margin">That No For<g ref="char:EOLhyphen"/>reigner shall sel Victual, or o<g ref="char:EOLhyphen"/>ther Merchan<g ref="char:EOLhyphen"/>dize, to any o<g ref="char:EOLhyphen"/>ther forreigner by retayle.</note> it was not law<g ref="char:EOLhyphen"/>full for any Stranger or Forreigner, to sell Victuall, nor other Merchandize, to any other Stranger or Forreig<g ref="char:EOLhyphen"/>ner within the same City to sell again; nor for no such Stranger or Forreigner to sell Victuall, nor other Mer<g ref="char:EOLhyphen"/>chandize within the City by retayle.</p>
+            <p>
+               <hi>Item,</hi> By antient custome of the said City of <hi>London,</hi> the Citizens Ministers of the same City ought to obey no Commandementr, nor no Seale, but only the com<g ref="char:EOLhyphen"/>mands, and immediate Seale of our Lord the King. Nor ought any Officer of our Lord the King to make seisure, or any execu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion within the said City, nor within the Franchize thereof, by Land, or by Water, but only the of<g ref="char:EOLhyphen"/>ficers of the said City.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Of a Writ of Errour.</note> Of Judgments given in the Sheriffs Court in actions personall, or in Assizes taken before the Sher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffs, and Coroner, by custome of the said City; the parties against whom such Judgments are given, may sue a writ
+<pb n="8" facs="tcp:176640:6"/> of Errour, directed to the Mayor and Sheriffes, to re<g ref="char:EOLhyphen"/>verse the said Judgment in the Hasting <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Judgment be reversible.</p>
+            <p>And although such judgments be affirmed in the Ha<g ref="char:EOLhyphen"/>sting, yet the same party may sue another Writ of Er<g ref="char:EOLhyphen"/>rour directed to the Mayor and Sheriffes, to cause to bring the Record and Proces before the Justices assig<g ref="char:EOLhyphen"/>ned, at St. <hi>Martins</hi> the Great, as it hath been done here<g ref="char:EOLhyphen"/>tofore.</p>
+            <p>But if any party by such judgment given before the said Sheriffes, be convict in debt or in dammage; and for that cause bee committed to prison, untill hee hath made agreement; and after pursue a Writ of Errour to reverse the judgment in the Hasting: or, although the Iudgment be affirmed at the Hasting, &amp; the said parties will sue another Writ of Errour to reverse the same Iudgment before the Iustices assigned at St. <hi>Martins</hi> the great, as afore is said: Yet notwithstanding, the same party which ls so imprisoned, ought not to be delivered out of prison by ancient custome of the City, by reason of such a Writ of Errour, before that he hath found suf<g ref="char:EOLhyphen"/>ficient surety within the said City, or put the money in the hands of the Court, to pay him that shall recover, or in case that the said Judgment be afterward affirmed.</p>
+            <p>And in case that such a Writ of Errour be sued to re<g ref="char:EOLhyphen"/>verse any Judgment given in Hasting before the Justi<g ref="char:EOLhyphen"/>ces assigned at St. <hi>Martins</hi> the Great, and it be com<g ref="char:EOLhyphen"/>manded by Writ to warn the parties, and to cause them to bring the Record and Proces before the same Justi<g ref="char:EOLhyphen"/>ces, then shall the parties bee warned as the Law re<g ref="char:EOLhyphen"/>quires.</p>
+            <p>But no Record shall bee brought before the said Ju<g ref="char:EOLhyphen"/>stices in writing by custome of the City; but the Mayor and Aldermen shall have forty dayes respit assigned by the same Justices after their first Session there, to bee ad<g ref="char:EOLhyphen"/>vised of the said Record, &amp; of the Proces thereof; and <hi>at the first Session of the</hi> Justices, after the forty <hi>dayes,</hi>
+               <pb n="9" facs="tcp:176640:6"/> the said record and processe shall bee recorded before the same Justices, by the mouth of the <hi>Recorder</hi> of the said City <hi>ore tenus.</hi>
+            </p>
+            <p>And of Judgments given before the Mayor and Al<g ref="char:EOLhyphen"/>dermen in the Chamber of Guild-Hall, according to the Law of Merchants, no Errour was ever writ to be sued.</p>
+            <p>
+               <hi>Item,</hi> By ancient custome of the City, all the Liber<g ref="char:EOLhyphen"/>ties, Priviledges, and other Customes pertaining to the same City, ought to be recorded by mouth, without be<g ref="char:EOLhyphen"/>ing put in any other manner in writing.</p>
+            <p>
+               <hi>Item,</hi> The Citizens of <hi>London</hi> by custome of the City, ought not to go out of the City, by writ, or other man<g ref="char:EOLhyphen"/>ner, to passe in any Enquest.</p>
+            <p>
+               <hi>Item,</hi> Wives after the death of their husbands,<note place="margin">Of not putting citizens in En<g ref="char:EOLhyphen"/>quest out of the city.</note> by cu<g ref="char:EOLhyphen"/>stome of the City, shall have their free bankes; that is to say the wise after the death of her husband, shal have of the tenement within the City, whereof her husband dyed, seised in fee, and in which tenement the said hus<g ref="char:EOLhyphen"/>band and she were remaining together at the time of the death of her husband, the Hall, the principall cham<g ref="char:EOLhyphen"/>ber, and the celler, wholly; and her easement in the Kitchin, the chiefe table and curtilage in common, or o<g ref="char:EOLhyphen"/>ther necessaries to her appertaining for terme of her life.</p>
+            <p>And at what houre that she shall marry, she shall lose the free bank, and her dower thereof, saving to her the dower of her other tenements, as the Law requires.</p>
+            <p>
+               <hi>Item,</hi> Every Free-man using a Mystery may by usage of the same City, take an Apprentice to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve him, and to learne his Art and Mystery; and that by Indentures that shall be made betweene him and his said Appren<g ref="char:EOLhyphen"/>tice.</p>
+            <p>The which Indentures shall be examined and enrol<g ref="char:EOLhyphen"/>led of record before the Chambe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aine of Guild-Hall. And such Apprentice may bind him<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elfe, or his friends may put him to his Master by their Indentures, if he bee
+<pb n="10" facs="tcp:176640:7"/> of convenient age, according to the discretion of the Chamberlain, or of the Mayor and Aldermen, if need be.</p>
+            <p>And no Apprentice by custome of the City may bee put for lesse terme then 7. yeares; and the Indentures ought to be enrolled within one year after the making thereof, under a certain pain therefore limited; and af<g ref="char:EOLhyphen"/>ter such Apprentice hath well and loyally served his terme, he shall be a Free-man of the City without other redemption, where no other may come to the freedome without redemption, save such that are born within the said City, of what Countrey soever they be, of the alle<g ref="char:EOLhyphen"/>giance of our Lord the King, by usage of the said City, are also Free-men by their Mystery, having regard to the priviledges of the Franchise, as such as have beene Ap<g ref="char:EOLhyphen"/>prentices, or otherwise have come to the Freedome by redemption.</p>
+            <p>And women covert that use certain crafts within the Gity by themselves without their husbands, may take women to their Apprentices, for to serve them, &amp; learne their Crafts.</p>
+            <p>And the which Apprentices shall be bound by their Indentures Apprentices to the husband and his wife, to learn the Mystery of the wife, as is aforesaid. And such Indentures shall be enrolled, as well of women, as of men.</p>
+            <p>And it is to be understood, that every one having such apprentice, may sell and devise his said apprentice unto whom he will of the same Art, as his chattell.</p>
+            <p>
+               <note place="margin">To arrest on the River of Thames.</note>
+               <hi>Item,</hi> The River of the Thames doth serve as the bounds of the Franchise of the Gity, for part and parcell of the Gity; and the same River, and all appertaining to the said River, being within the said Franchise, hath been alwayes in the government of the same Gity, as parcell of the City aforesaid, aswell the one part of the River as the other.</p>
+            <p>And the Sheriffes of <hi>London</hi> that are for the time be<g ref="char:EOLhyphen"/>ing,
+<pb n="11" facs="tcp:176640:7"/> have alwayes used to make arrests, and serve exe<g ref="char:EOLhyphen"/>cutions at the suit of the parties, in the said River of Thames, <hi>viz.</hi> from the East part of <hi>London</hi> Bridge untill the return; and from the West part of the said <hi>London</hi> Bridge, unto <hi>Stanes</hi> Bridge.</p>
+            <p>
+               <hi>Item,</hi> The said Sheriffes of <hi>London</hi> ought by usage of the City to have forfeitures of the chattels of all kind of Fugitives and Fel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, and of Derdans within the said City, and the said River of Thames in ayde of their Farme which they pay yearly to our Soveraigne Lord the King.</p>
+            <p>
+               <hi>Item,</hi> By custome of the City, no attaint is maintaina<g ref="char:EOLhyphen"/>ble, nor lyeth within the same City.</p>
+            <p>
+               <hi>Item,</hi> By ancient custome of the City, no man remai<g ref="char:EOLhyphen"/>ning within the same City, was wont to be taken or carryed out of the said City, by colour or claime of vil<g ref="char:EOLhyphen"/>lenage, before that the matter was discussed by course of Law.</p>
+            <p>
+               <hi>Item,</hi> If a Free-man of the said City, comming or passing with his merchandize else-where out of the same city, be constrained to pay Toll, or other custome, or that his Wares be arrested, stayed wrongfully and with<g ref="char:EOLhyphen"/>out reasonable cause, and that it be sufficiently witnes<g ref="char:EOLhyphen"/>sed by men of credit: then, if afterward, the goods or Merchandizes, of him that did the wrong, or the Goods or Merchandizes of others of the same Village where the wrong was done, be found within the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the use is at the suggestion of the party to arrest such goods and merchandizes by the Ministers of the City and to detain them in the name of <hi>Withernam,</hi>
+               <note place="margin">Withernam.</note> untill a<g ref="char:EOLhyphen"/>greement be made with the said Free-man for the dam<g ref="char:EOLhyphen"/>mages which he hath sustained by the cause, saving al<g ref="char:EOLhyphen"/>ways reasonable to answer that party as wel to the one party, as to the other.</p>
+            <p>
+               <hi>Item,</hi> The Citizens of <hi>London</hi> of ancient time, ordai<g ref="char:EOLhyphen"/>ned a house, called the Tonne in <hi>Cornhill,</hi>
+               <note place="margin">Of the Tonne in Cornhill.</note> To which house the Constables, Bedels, and other Officers and
+<pb n="12" facs="tcp:176640:8"/> people of the City into the same, have used to bring and there for the time, to imprison the trespassers going in the night against the peace, marryed men and women found in adultery, and Chaplaines▪ and others religious, found openly with common women, or with other mens wives in the night, in suspitious places; and after, to lead them before their Ordinaries.</p>
+            <p>
+               <hi>Item,</hi> The City of <hi>London</hi> hath conusance of Pleas by the Kings charter.</p>
+            <p>And there is a use that no Free-man of the same city shall implead another Free-man of the same city, other<g ref="char:EOLhyphen"/>where then in the same city, where he might have reco<g ref="char:EOLhyphen"/>vered within the said city, upon pain of losing their Freedome.</p>
+            <p>
+               <note place="margin">Of the Mayors see at the Kings coronation.</note>
+               <hi>Item,</hi> He that is Mayor of <hi>London</hi> for the time, shall have a Golden Cup at the Coronation of every King. And also there are other priviledges pertaining to the said Mayor and City, at such coronation of the King, according to the ancient custome of the city.</p>
+            <p>
+               <hi>Item,</hi> The use is, that the chiefe Butler of our Sove<g ref="char:EOLhyphen"/>raigne Lord the King, shall be the chiefe Goroner of the city of <hi>London;</hi> and the which Coroner hath used to make by Writ, a Substitute in his place, which Substi<g ref="char:EOLhyphen"/>tute is called Coroner; and before whom, the Indict<g ref="char:EOLhyphen"/>ments and Appeales are taken within the said city, be<g ref="char:EOLhyphen"/>fore the two Sheriffes, and the Coroner joyntly.</p>
+            <p>Enquests taken upon the death of a man, upon the first sight of the body, are chosen out of the four Wards next adjoyning, and summoned by the Bedels of the same Wards.</p>
+            <p>And all other enquests taken before the Sheriffes and Coroner joyntly, ought to be arrayed and summoned by the Sheriffes and their Officers.</p>
+            <p>
+               <hi>Item,</hi> Heretofore where any Thiefe being in the Goal of Newgate, hath appealed another Thiefe, being in some other Goal, that Thiefe remaining in the other Goale, was wont to bee sent for by Writ to the said Goale of
+<pb n="13" facs="tcp:176640:8"/> Newgate, to answer to the said appeale, and to have his deliverance there.</p>
+            <p>And in the same manner, if a Thiefe being in another Goale, hath appealed another man abiding in the said Goale of Newgate, or any other of the said city, the same appeal or being in another Goale, shall be brought by Writ to the said Goal of Newgate, to maintaine his said appeale there. And no Thiefe being in the Goale of Newgate taken with the manner shall be carryed out of the said city to be at his deliverance, before the Mayor of <hi>London,</hi> and other Justices assigned for the said Goale of Newgate.</p>
+            <p>
+               <hi>Item,</hi> Because that the Village of <hi>Southwarke,</hi>
+               <note place="margin">Southwarke.</note> and the <hi>Common-Stewes,</hi> over the River of <hi>Thames,</hi>
+               <note place="margin">Common-pleas</note> are so neere to the said City of <hi>London,</hi> and that Thieves and other misdoers are often-times from thence comming and re<g ref="char:EOLhyphen"/>pairing, and often times after their Theeveries and Fel<g ref="char:EOLhyphen"/>lonies committed within the said City, flye and with<g ref="char:EOLhyphen"/>draw themselves out of the same City, unto the said Stewes, and to the said Village of <hi>Southwarke,</hi> within the Franchize there, being out of the power of the said Ci<g ref="char:EOLhyphen"/>ty, where they abide and watch their times, to return to do mischief: Wheras the ministers of the same city have used at all times to pursue and search for such Thieves and Evill-doers at the said Stewes, and in the said Vil<g ref="char:EOLhyphen"/>lage of <hi>Southwarke,</hi> as well within the Franchise, as w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<g ref="char:EOLhyphen"/>out, and to bring them to the said Goal of Newgate to attend their deliverance there before the Justices, aswel upon suspition, as at the suit of the party.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Of Priso<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s condem<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>▪</note> Where prisoners are condemned or arrested and committed within the said City, and be commited to prison at the parties suit, and after bee sent for by a Writ to the Exchequer, or in other places of the King with their c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uses, the same prisoners after that they bee delivered in the Kings Court ought to be sent backe a<g ref="char:EOLhyphen"/>gaine to the said City, to answer the parties, and attend their deliverance.</p>
+            <pb n="14" facs="tcp:176640:9"/>
+            <p>
+               <note place="margin">Of houses de<g ref="char:EOLhyphen"/>cayed within the City.</note>
+               <hi>Item,</hi> Those which have tenements within the said City, shall not be suffered to despoile or wast their own tenements, nor them to take down in disorderly sort, <hi>nor</hi> to the disgracing of the said City, except it be to amend or re-edifie the same.</p>
+            <p>And if any man shall do or begin to do it, he shal be restrained by the Mayor and Aldermen, and punished for the trespasse, according to the custome of the City.</p>
+            <p>
+               <hi>Item,</hi> If Walls, Penthouses, or other tenements what<g ref="char:EOLhyphen"/>soever within the said City,<note place="margin">Of Penthouses.</note> extending towards the high<g ref="char:EOLhyphen"/>wayes, be so rotten and feeble, that people dare not passe that way for the danger of their sudden fall; then after that testimony be given to the Mayor and Aldermen, by the Masons and Carpenters that are sworne to the said City,<note place="margin">Defects in te<g ref="char:EOLhyphen"/>nements.</note> or it be found in the Wardmote, that the perill is such; then the same Mayor and Aldermen shall warne the party to whom the tenements belong, to amend and redresse them as soon as he may well do the same. And if after such warning, the said tenements be not amen<g ref="char:EOLhyphen"/>ded, nor begun to be amended within 40 dayes after; then shall the said tenements be amended and redres<g ref="char:EOLhyphen"/>sed at the costs of the same party.</p>
+            <p>And the said ten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments shall remaine in the hand of the said City, untill the costs thereupon bestowed, bee fully levyed, if the possessors of the said tenements have no other tenements, nor goods, nor chattels within the City.</p>
+            <p>And if he hath other tenements, or goods, or chattels, within the City, the costs shall be levyed of his goods and chattels, or of his other tenements, if need be.</p>
+            <p>
+               <hi>Item,</hi> What house soever that is found within the said City, or the Suburbs, to be covered w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Reed, or with Shingle; he to whom the house belongs, shall pay to the Sheriffes that are for the time 40 s. and shall bee made pull down the said covering.</p>
+            <p>
+               <hi>Item,</hi> If any house within the said City be on fire, so that the flame of the fire be seen out of the house, the
+<pb n="15" facs="tcp:176640:9"/> dweller in the said house, shall pay unto the said Sheriffs 40. s. at the first demand.</p>
+            <p>
+               <hi>Item,</hi> The Mayor and Aldermen, and Sheriffes,<note place="margin">Of the election of the Mayor.</note> and all other Off cers and Ministers of the said City, are ele<g ref="char:EOLhyphen"/>cted by the same City, <hi>viz.</hi> At the time when the May<g ref="char:EOLhyphen"/>or shall be chosen, the Commons of the said City shall by usage, be assembled at Guild-hal, and the same Com<g ref="char:EOLhyphen"/>mons shall make election of two wise men of the said City: of the which, one shall be Mayor; and the names of the said two prudent men, shall be reported before the Mayor and Aldermen, that are then for the time, in the chamber of Gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld-hall; and then one of the two shall be chosen Mayor, by the Mayor and Aldermen there, by way of lot. And the said Mayor so newly cho<g ref="char:EOLhyphen"/>sen, the morrow after the Feast of St. <hi>Simon</hi> and <hi>Iude</hi> shal be presented to the Barons of the Excheker at West<g ref="char:EOLhyphen"/>minster, or in absence of the said Barons, to the Consta<g ref="char:EOLhyphen"/>ble of the Tower; and afterward shall be presented to the Lord our Kings owne pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, according as it is con<g ref="char:EOLhyphen"/>tained in the Charter of the said City.</p>
+            <p>And the said Mayor shall have the government of the same City, under our Lord the King, for the yeare fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>And the said Mayor shall have 50 Markes a Yeare, for the weighing of corn, and 50 markes in the time of peace, of the Merchants of <hi>Amians, Corby</hi> and <hi>Neele,</hi> ac<g ref="char:EOLhyphen"/>cording to the ancient thereof made. And every Mayor shall hold his generall Court at Guild-hall the Monday next after the Feast of Epiphany; And there shall bee assembled all the Aldermen of the said City, and all Constables, Scavangers, and Bedles, of the Wardmotes, held by the Aldermen; and the defaults found in the Wards, shall be enquired of, and examined; And the Constables, Scavangers, and Bedels, shall be sworne a new, to execute well and loyally their Off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, for the time that they shall be Officers.</p>
+            <p>And the Mayor that is for the time, by custome of the
+<pb n="16" facs="tcp:176640:10"/> said City, for maintenance of the peace and tranquility within the same City, hath power to arrest and impri<g ref="char:EOLhyphen"/>son the disturbers of the peace, and other evill-doers for resistances, ill speeches, and other defaults, according to his discretion, without being for the same empeached, or sued afterward.<note place="margin">Of the same.</note>
+            </p>
+            <p>
+               <hi>Item,</hi> No Mayor shall be chosen within the said City before that he hath been Sheriffe of the same City, by the space of a year before.</p>
+            <p>
+               <note place="margin">Of the sword.</note>
+               <hi>Item,</hi> The Mayors of <hi>London</hi> which have been for the time, have used to have their Swords carryed upright, before them, within the said City, and without; with<g ref="char:EOLhyphen"/>out holding downe their swords in any mans presence, except in the presence of our Lord the King; and that Sword is called the Kings Sword.</p>
+            <p>
+               <hi>Item,</hi> The Sheriffes of <hi>London</hi> are chosen by usage of the said City on St. <hi>Matthewes</hi> day in Guild-hall,<note place="margin">Of the election of the Sheriffs.</note>
+               <hi>viz.</hi> One shall be chosen by the Mayor or Gardian, that shal be for the time; and the other by the Commons: And the Sheriffes shall be afterwards sworn within the said Guild-hall; and afterwards on the morrow of St, <hi>Mi<g ref="char:EOLhyphen"/>chaels,</hi> shall be presented in the Exchequer, or to the Constable of the Charter of the said City.</p>
+            <p>And the said Sheriffes shall have free election of all their Officers, and of their Farmers and Bayliffes, as well within the said City, as in the county of <hi>Middlesex,</hi> and of the Goalers of the Goales, within the said City, at their will, and at their peri l.</p>
+            <p>And the same Sheriffes pay and are accomptible year<g ref="char:EOLhyphen"/>ly to the Exchequer of our Lord the King, for the Farm of the said City, and of the County of <hi>Middlesex,</hi> accor<g ref="char:EOLhyphen"/>ding to the forme of the said charter of the City. And by reason of which Farme, the said Sheriffes ought to have the ancient prizes and customes of the Merchan<g ref="char:EOLhyphen"/>dizes coming within the City and going out; and for<g ref="char:EOLhyphen"/>feitures, fines and amerciaments, and all other commo<g ref="char:EOLhyphen"/>dities of ancient time belonging to their said Offices.</p>
+            <pb n="17" facs="tcp:176640:10"/>
+            <p>And no Merchant shall passe out of the said City,<note place="margin">
+                  <p>That none sha l passe with merchandizes without Bill.</p>
+                  <p>Forraigners ought to pay. Of the election of Aldermen, and of their Office.</p>
+               </note> by land nor water, by wagon or cart, horse nor bridge, without a Bill given ensealed by the said Sheriffes. And those which are Forreigners ought to pay for their pas<g ref="char:EOLhyphen"/>sage, according to the ancient custome,</p>
+            <p>
+               <hi>Item,</hi> The said Aldermen be chosen by the people of the same Wards; and the which Aldermen ought to hold their Wardmotes, as the custome is, and survey &amp; redresse the nusances and defaults in the same wards: and shall take order concerning victuals, as else-where is declared more fully in the Articles of Wardmotes. And the Aldermen have power by usage of the said ci<g ref="char:EOLhyphen"/>ty, to arrest mis-doers, and commit them to the custody of the Sheriffes, untill they be examined and delivered by the same Mayor, and the same Aldermen.</p>
+            <p>
+               <hi>Item,</hi> An Alderman after that he hath been once made Alderman, or a Sher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffe after that he hath been a Sheriff,<note place="margin">That Alder<g ref="char:EOLhyphen"/>men shall not be empanneled</note> shall not afterwards be empannelled, nor put in any En<g ref="char:EOLhyphen"/>quest within the same City, by usage of the said City. And of every Feoffment and Seisin delivered within the Ward, the Alderman of the Ward where the tenements are shall have his Fee for the Seisin,<note place="margin">
+                  <p>The Aldermen <hi>2</hi> s. the Bedle <hi>6.</hi> d.</p>
+                  <p>Of the election of common Of<g ref="char:EOLhyphen"/>ficers.</p>
+               </note>
+               <hi>viz.</hi> 2. s. and his Be<g ref="char:EOLhyphen"/>dell 6. d.</p>
+            <p>
+               <hi>Item,</hi> All other common Officers of the aforesaid city as Recorder, Chamberlain, Wardens of the Bridge, com<g ref="char:EOLhyphen"/>mon Sergeant at Law, common Sergeant at Mace, com<g ref="char:EOLhyphen"/>mon Clerk, and Sergeant of the chamber, are chosen by the Mayor and Aldermen, and by the Commons.<note place="margin">
+                  <p>Bedels elected by the Alder<g ref="char:EOLhyphen"/>men, and by the men of the Ward.</p>
+                  <p>Porters of the Gates chosen by men of the City.</p>
+               </note> And the Bedels are chosen by their Aldermen, and by those of the Ward, And all the gates of the city ought to be in the hands and government of the said city, except Bi<g ref="char:EOLhyphen"/>shops gate, which gate belongs to the Merchant of the Hans, according to the forme of the composition. And the Porters of the said city are chosen by the same Ci<g ref="char:EOLhyphen"/>ty.</p>
+            <p>
+               <hi>Item,</hi>
+               <note place="margin">Touching the Keepers of London bridg.</note> The Wardens of <hi>London</hi> Bridge are chosen by the Mayor and Aldermen, and by the Commons of the
+<pb n="18" facs="tcp:176640:11"/> said City: The which Wardens have the charge of the said Bridge, and the governance of the Tenements with<g ref="char:EOLhyphen"/>in the said City, pertaining to the same Bridge. And eve<g ref="char:EOLhyphen"/>ry Cart or Wagon, going or coming upon the same Bridge with Merchandizes, shall pay to the use of the said Bridge,<note place="margin">Cart or wagon to pay <hi>2.</hi> d.</note> 2. d.</p>
+            <p>And every Ship or other Vessell with Merchandizes passing by water to the said Bridge, towards the West, with the Mast standing: so that the Bridge must bee drawn up, shall pay for the passage to the use of the said Bridge two pence,<note place="margin">Vessels West<g ref="char:EOLhyphen"/>minster <hi>2.</hi> d. vessels East<g ref="char:EOLhyphen"/>ward <hi>6.</hi> d.</note> and that Vessell passing there also to<g ref="char:EOLhyphen"/>ward the East, shall pay six pence; and the same War<g ref="char:EOLhyphen"/>dens are every yeare accomptible before two Alder<g ref="char:EOLhyphen"/>men, and foure Commons thereto assigned.</p>
+            <p>
+               <hi>Item,</hi> The Chamberlaine of Guild-hall is chosen by the Mayor and Aldermen,<note place="margin">Of the election of the Cham<g ref="char:EOLhyphen"/>berlain, and his office.</note> and by the Commons; and it pertaineth to the Office of the said Chamberlaine to oversee and keepe all the Bookes, Rolls, Records, and o<g ref="char:EOLhyphen"/>ther Monuments, and Remembrances, that there ought to remaine of Record, and the treasure, if there bee any; and also to keepe and maintaine all the Rents and Te<g ref="char:EOLhyphen"/>nements pertaining to the said chamber.<note place="margin">
+                  <p>Of the Rents belonging to the chamber.</p>
+                  <p>Of the tene<g ref="char:EOLhyphen"/>ments &amp; goods of Orphans.</p>
+               </note>
+            </p>
+            <p>And he shal also keepe the tenements, and the money and the goods and chattels, which are devised or descen<g ref="char:EOLunhyphen"/>ded to Orphans untill they be committed to other per<g ref="char:EOLhyphen"/>sons, nor otherwise disposed by the Mayor &amp; Aldermen.</p>
+            <p>And he shall cause the Indentures of Apprentices to be enrolled, and hee shall make those Apprentices to serve.</p>
+            <p>And for such as are made free by redemption, he shal set the Fines of such redemption, and he shall take fines of such as are rebellious to their Master<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Gardians, and for certaine other defaults committed against the Ordinances of the City.</p>
+            <pb n="19" facs="tcp:176640:11"/>
+            <p>And the money thereof comming, he shall receive and keep, and out thereof, shall pay to divers Officers their wages, as to the Recorder, common Sergeant at Mace, and shall make other disbursments pertaining to his of<g ref="char:EOLhyphen"/>fice, and shall render an account once in the yeare, how much he hath received payed, and spent; and that before two Aldermen and foure Commoners, assigned by the Mayor and Aldermen.</p>
+            <p>And also the Citizens of <hi>London</hi> heretofore,<note place="margin">Of priviledges in the circuit of the Justices at the Tower of London.</note> have clai<g ref="char:EOLhyphen"/>med and ought to have many liberties and priviledges in the Eyre at the Tower of <hi>London, viz.</hi> They ought to have their Porter stand without the gates of the Tower and the Porter of our Lord the King shall bee with<g ref="char:EOLhyphen"/>in.</p>
+            <p>And their Usher at the Hall doore, without where the Pleas shall be held within the Tower, during all the Eyre, for the bringing in the people of the City, which have to do in the same Eyre.</p>
+            <p>And the Usher of our Lord the King shall otherwise meddle there, during all the Eyre of that thing which pertaines to the Office of the Sergeant. <hi>And</hi> that the Ci<g ref="char:EOLhyphen"/>tizens shall make no other oath, but by the Faith they owe to our Lord the King.</p>
+            <p>And that the Sheriffes of <hi>London</hi> shall have the custo<g ref="char:EOLhyphen"/>dy of all the prisoners in all the Eyre. And that none of the said City of <hi>London</hi> or in the Suburbs thereof, ex<g ref="char:EOLhyphen"/>cept that the plea be afore begun, in the Husting of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and after bee removed before the said Justice in Eyre, because that hee which is impleaded doth vouch a Forreigner to warranty, who hath nothing within the Franchise of the said City, but by disseisons made in the said City, after the SUMMONS of the Eyre.</p>
+            <pb n="20" facs="tcp:176640:12"/>
+            <p>And that the Pleas begun in the Court of <hi>London,</hi> and there depending, ought there to be ended, and ought not to be sent or removed before the Justices of our Lord the King; except some matter bee alleadged by one of the parties, of which the Court cannot hold conusance, nor hath power to determine thereof.</p>
+            <p>And there are many other points and priviledges, which will more fully appear in sundry Eyres, holden at the said Tower of <hi>London.</hi>
+            </p>
+            <p>And also, many other liberties, priviledges, and cu<g ref="char:EOLhyphen"/>stomes, are pertaining to the city of <hi>London;</hi> whereof no man can remember them all to set them downe in writing being only recorded by month, when they came in truth by custome of the same city, <hi>viz.</hi> at the last Eyre held at the Tower of <hi>London,</hi> they ought to be bound by the customes: whereupon, the same Citizens did sue their Petition to the King in these words:</p>
+            <p>
+               <note place="margin">The Cities Pe<g ref="char:EOLhyphen"/>tition to the Kings</note>HIGH and Mighty Lord; Whereas your said City is founded upon the Franchises, and free ancient Cu<g ref="char:EOLhyphen"/>stomes, and not upon the common Law, as other Cities of your Realme.<note place="margin">The city is founded upon franchises &amp; free ancient customes.</note> More it is enacted by the Great Char<g ref="char:EOLhyphen"/>ter, That the city of <hi>London</hi> should enjoy all its Franchi<g ref="char:EOLhyphen"/>ses and free customes unblemished, and the same fran<g ref="char:EOLhyphen"/>chises and customes, be to them by your Progenitors granted, and by your self confirmed; and they ever from time to time used in Eyres, and else-where before the Justices, at what houre they doe come, in deed or in demanding their franchises and customes; and that by a Statute made after the last Eyre, and to put their franchises and customes in certain; which things, no man can remember.</p>
+            <p>May it please your Majesty, to command all the said Justices, that they be ordered, in point of challenge of their said franchises and customes, as they were wont, anciently to be ordered in other Eyres before the Sta<g ref="char:EOLhyphen"/>tute,
+<pb n="21" facs="tcp:176640:12"/> and that by no Statute repugnant to their said franchises and customes, they be bound or depr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved of their Franchises, and ancient customes; and thereupon a Writ was sent to the Justices to surcease.<note place="margin">A Writ to sur<g ref="char:EOLhyphen"/>cease.</note>
+            </p>
+            <p>Whereas in time past,<note place="margin">An antient custome in the city of London for tenants for fixing goods.</note> there arose by some a matter of doubt, of, and upon the most ancient custome had &amp; used in the city of <hi>London,</hi> of those things which by te<g ref="char:EOLhyphen"/>nants for terme of life, or for yeares, were fixed to the houses, without speciall licence of the Lord of the Soyl, whether they should remaine to the Lords of the Soyle, as parcell of the same; or whether it should be lawful for such Tenants, at the end of their tearme▪ all such things that be fixed, to remove.</p>
+            <p>Whereupon, ancient Books being viewed, and many Records searched, and antient proceedings, and Judg<g ref="char:EOLhyphen"/>ments of the said city; It was declared by the Mayor and Aldermen, That by the old prescript custome of the aforesaid city, That every of the said kinds of easments fixed to houses, or to the ground, by such kind of Te<g ref="char:EOLhyphen"/>nants, without speciall and expresse licence of the Lord of the Soyle, if they be affixed with nailes of Iron, or of wood, as Pantises, Glasse, Lockes, Benches, or such like; or if they be affixed with Lime or clay, commonly cal<g ref="char:EOLhyphen"/>led Morter, as Fornaces, Lead, Candirons, Chimneyes, Corbels, Pavements, and such other: or else, if Plants they be rooted in the ground, as Vines, Trees, Orchards, &amp;c. It shall not be lawfull for such Tenants, at the end of their Terme, or at any time, to pluck down, remove, or root out them, or any part of the premises by any meanes, but they alwayes remain to the Lord of the Soyle as parcell of the same Soyle, or Tenements, &amp;c.</p>
+            <p>It is to be understood, that all the Lands and Tene<g ref="char:EOLhyphen"/>ments, Rents and Services within the city of <hi>London,</hi> and in the Suburbs thereof, are pleadable at Guild-Hal with<g ref="char:EOLhyphen"/>in the same city, in two Hustings:<note place="margin">Hustings.</note> whereof the one Hu<g ref="char:EOLhyphen"/>sting
+<pb n="22" facs="tcp:176640:13"/> is called, <hi>Husting of Plea of Land;</hi> and the other Hasting is called, <hi>Husting of Common-Pleas:</hi> And the which Hustings are held in the said Guild-hall before the Mayor, Sheriffs, and Aldermen of the said city every weeke, the dayes <hi>Munday</hi> and <hi>Tuesday, viz.</hi> On the <hi>Munday</hi> to demand the demandants, and to award non-suites, to allow essoynes, and the <hi>Tuesday</hi> to award the default, and to plead.</p>
+            <p>But for certaine times, no Hustings may be held by by the custome of the city aforesaid, <hi>viz Husting of plea of Land,</hi> ought to be held a week by it selfe at the afore<g ref="char:EOLhyphen"/>said dayes. But, the enrollments and titles of the said Hustings, make mention of Munday only.</p>
+            <div type="part">
+               <head>Writs of Right Pattents.</head>
+               <p>
+                  <note place="margin">Writs of right Pattents.</note>In Husting of Plea of Land are pleaded Writs of Right, Pattents directed to the Mayor and Sheriffes of <hi>London,</hi> which Writs have this processe by custome of the city, <hi>viz,</hi> The Tenant or Tenants shal first haue three summons at the tenements demanded at three <hi>Hustings of Plea of Land</hi> next en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uing, after the livery of the Writ, and without demanding the tenements at any of the Hustings aforesaid.</p>
+               <p>And after the three summons ended, three essoynes at three other Hustings of Plea of Land then next ensuing; and at the next ensuing after the third essoyne, and the Tenants making default, processe shall be made against them by a grand cape, or petit cape, after the appea<g ref="char:EOLhyphen"/>rance, and other processe at the common-law.</p>
+               <p>And if the Tenants shall appeare, the demandmants shall count against the Tenants, in the nature of what Writ they will, except certaine Writs which are plea<g ref="char:EOLhyphen"/>dable in Husting of common-Pleas, as shall be declared afterward, without making protestation to see in the nature of any writ.</p>
+               <pb n="23" facs="tcp:176640:13"/>
+               <p>And the Tenants shall have the view, and shall be es<g ref="char:EOLhyphen"/>soyned after the view, as at the common-law. And the Tenant shall have an essoyne after every appearance by custome of the City.</p>
+               <p>And although that such a writ be abated after the view by exception of joint-tenancie, or other exception dilatory, and other such Writ be revived, the tenants by the custome of the City, shall have the view in the se<g ref="char:EOLhyphen"/>cond Writ: notwithstanding the view before had. And if the parties plead to judgment, the judgment shall be pronounced by their Recorders mouth, and sixe Alder<g ref="char:EOLhyphen"/>men were wont to be present, at the least, at the giving of every such judgment.</p>
+               <p>And every Bedell of the City,<note place="margin">The Jurors summoned.</note> by the advice of his Al<g ref="char:EOLhyphen"/>dermen, against every Husting of Plea of Land, shall summon 12. men Free-holders, being the best and mst sufficient of his Ward, to come to Guild hall, for to passe in an Enquest, if there be need, for all the rest of the free-holders in the said Ward. And if the parties plead and discend to an Enquest, then shall the Enquest be taken of the people inheritors, having at the least frank tene<g ref="char:EOLhyphen"/>ment of the same Ward where the Tenements are, and of other three wards next to the place where the Tene<g ref="char:EOLhyphen"/>ments are: so that foure sufficient of men of the same Ward, where the Tenements are, shall bee sworne in the same Enquest, if there be so many.</p>
+               <p>And no dammages by custome of the City are reco<g ref="char:EOLhyphen"/>verable in any such Writ of Right Pattent. And the Enquest may passe the same day by such common summons of the Beadell, if the parties be at issue, and the Jurors come.</p>
+               <p>And otherwise, processe shall be made to cause the Enquest to come at another Hasting of Plea of Land en<g ref="char:EOLhyphen"/>suing, by precept of the Mayor, directed to the She<g ref="char:EOLhyphen"/>riffes.</p>
+               <pb n="24" facs="tcp:176640:14"/>
+               <p>And the Sheriffes shall be ministers by the comman<g ref="char:EOLhyphen"/>dement of the Mayor to serve the writs, and to make execution thereof: Notwithstanding, that the original writ bee directed to the Mayor and Sheriffes joyntly. And it is to be understood, that as well the Tenants as the Demandants may make their Attornies in such Pleas.</p>
+               <p>And if the Demandants count against those Tenants in the nature of a writ of right, and the parties discend to an enquest upon the meere right, then shall the en<g ref="char:EOLhyphen"/>quest be taken of 34. in the nature of a grand assize, ac<g ref="char:EOLhyphen"/>cording as the custome requires: so that alwayes six be of the Ward, where the Tenements be, if there be so ma<g ref="char:EOLhyphen"/>ny of the same ward be empannelled in the Enquest of 24.</p>
+               <p>
+                  <note place="margin">Vouching to warranty.</note>And the Tenants in all such writs may vouch to war<g ref="char:EOLhyphen"/>ranty within the said City; and also in a forreign coun<g ref="char:EOLhyphen"/>ty, if the Vouchees have no tenements within the city. And if the Tenants in such writs doe vouch to warranty in a forreign County, in which case processe may not be made against the vouchees by Law of the said City, then the Record shall be made come before the Justices of the Common-Pleas, at the suit of the Demandant, and there processe shall be made agaist the vouchee; and when the voucher shall be ended in the said Bench, then shall all the plea bee sent back againe to the Husting, there to proceed in the plea, according to the custome of the City, and according to that which is fully contained in certain Statutes.</p>
+               <p>And also if the Tenants in such writs plead in barre by a release, bearing date in a forraign County, or plead other forraign matter, which may not be tryed within the said City; then the Demandant shall bring the pro<g ref="char:EOLhyphen"/>cesse into the Kings Bench for to try the said matter, as it is alleadged, and according as it is found, the plea shal be sent backe againe into the Husting, there further to
+<pb n="25" facs="tcp:176640:14"/> proceed according as the case requires, and all the same time, the plea shall cease in the Husting in manner as it is done at this day.</p>
+               <p>And also, it hath been used heretofore, that a man might sue in the Husting of plea of Lands, for to have Execution out of certain Judgments given in the Hu<g ref="char:EOLhyphen"/>sting and that by Bill, in the nature of a <hi>scire face,</hi> with<g ref="char:EOLhyphen"/>out Writ.</p>
+               <p>And it is to be understood that the summons which are made to the tenants, in such writs of Right, may be made two or three dayes, before the said Husting, or the mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row next before the said Husting.</p>
+               <p>In the Husting of Common-pleas,<note place="margin">A Writ of ex gravi querela.</note> are pleadable Writs, called <hi>Ex gravi querela,</hi> for to have execution of the tenements out of the Testaments, which are inrol<g ref="char:EOLhyphen"/>led in the Husting. Writs of Dowre, <hi>unde nihil habet,</hi> Writs of Gavelkind of custome, and of service, in stead of a <hi>Cessavit.</hi> Writs of Errour, of Judgments given be<g ref="char:EOLhyphen"/>fore the Sheriffe, Writs of waste, writs <hi>de partitione fa<g ref="char:EOLhyphen"/>cienda</hi> between <hi>Coperteners,</hi> Writs of <hi>quid juris clamat,</hi> and <hi>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> que serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cia,</hi> and others: The which Writs are close, and directed to the Mayor and Sheriffes; And al<g ref="char:EOLhyphen"/>so Replegiaries of things taken, and of distresses wrong<g ref="char:EOLhyphen"/>fully taken, are pleadable before the Mayor and She<g ref="char:EOLhyphen"/>riffes, in the same Husting of Common-pleas, by plaint without writ.</p>
+               <p>And it is to be understood, that the same Sheriffes are ministers to execute the office, and serve all the said Writs and Replegiaries, by a precept of the Mayor di<g ref="char:EOLhyphen"/>rected to the said Sheriffes; and the processe is after this manner.</p>
+               <p>First, in a Writ of <hi>ex gravi querela,</hi> warning shall be given to the tenants, <hi>viz.</hi> two or three dayes before the Husting, or in the morning before, as in a Plea of Land, and so shall be done of all other summons touching the same husting.</p>
+               <pb n="26" facs="tcp:176640:15"/>
+               <p>And if the warning be given and testified by the Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riffe or his Ministers, the tenants may be essoyned once; and if the tenants make default at the said war<g ref="char:EOLhyphen"/>ning testified, then shall the grand Gape be awarded; if they appeare, they may be essoyned after the view: and thereupon all other processe shall be made fully, as is said in a Writ of Right Pattent in the Husting of Pleas of Land.</p>
+               <p>
+                  <hi>Item,</hi> In a Writ of Dower, <hi>unde nihil habet,</hi> the Te<g ref="char:EOLhyphen"/>nants shall have at the beginning three Summons, and one essoyne after the three Summons, and afterwards shall have the view; and after the view one essoyne: and the tenants in such a Writ of Dower, shall have the view, although they enter by the same husband of the Demandant; and also notwithstand ng the husband dy<g ref="char:EOLhyphen"/>ed, seized.</p>
+               <p>And also the Tenants may vouch to warranty, and be essoyned after every appearance: and all other pro<g ref="char:EOLhyphen"/>cesse shall be made as in a writ of right, in the Husting of Plea of Land.</p>
+               <p>And if the Demandant recover Dower against the Tenants by default, or by Judgment in Law, in such a Writ of Dower; and the same woman demandant shall alleadge in Court of Record, that her husband di<g ref="char:EOLhyphen"/>ed seized; then the Mayor shall give commandement to the Sheriffes by precept, that they summon an En<g ref="char:EOLhyphen"/>quest of Neighbors, where the tenements are against the next Husting of Common-pleas, to enquire if the husband dyed seised, and of the value of the tenements, and the dammages shall be enquired of by the same Enquest.</p>
+               <p>
+                  <hi>Item,</hi> In a Writ of Gavillete the tenants shall have three summons, and three essoynes, they shall also have the view, they may vouch to warranty, Denizen, and Forreigner, and they shall be essoyned, and they must
+<pb n="27" facs="tcp:176640:15"/> enter their exceptions; and all other processe shall bee made, as before is declared in a writ of Right, in the Husting of plea of Land; saving, if the tenant make default, then the demandant shall have judgment to re<g ref="char:EOLhyphen"/>cover, and hold for a yeare and a day, upon this conditi<g ref="char:EOLhyphen"/>on, that the tenant may come within the same year and day next ensuing, and agree for the arrearages &amp; finde Surety, as the Court shall award to pay the rent with<g ref="char:EOLhyphen"/>in the services loyally afterward, and to have againe his tenements.</p>
+               <p>And within which yeare and day, the tenant may come and cause the demandant come in Court by a <hi>Scire fac,</hi> and have again his tenements,<note place="margin">
+                     <p>A scire face brought by the tenant within the yeare and day.</p>
+                     <p>A scire fac brought by the demandant af<g ref="char:EOLhyphen"/>ter the yeare &amp; day.</p>
+                  </note> doing as is a<g ref="char:EOLhyphen"/>foresaid.</p>
+               <p>Then after the yeare and day, the demandant shall have a <hi>Scire fac</hi> against the tenant to come and answer if he can any thing say, wherefore the said demandant ought not to hold the tenements quietly to him and his heires for ever.</p>
+               <p>And if the renant come not, or if hee come and can say nothing; then the Judgment shall be, that the De<g ref="char:EOLhyphen"/>mandant shall recover the tenements quietly for ever, according to the Judgments, called <hi>Shartford,</hi> by cu<g ref="char:EOLhyphen"/>stome of the aforesaid City.</p>
+               <p>In a writ of wast processe shall bee made against the tenants by summons attachments, and distresses,<note place="margin">Of a Writ o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> waste.</note> accor<g ref="char:EOLhyphen"/>ding to the Statutes thereof made: and if the tenants come and plead, then he shall have one essoyne▪ and so after every appearance; and if hee make default at the grand distresse,<note place="margin">That the En<g ref="char:EOLhyphen"/>quest shall not tax▪ but simple dammages and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Court shall trebl<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. This is enacted by the Statute of Gloc. capias</note> then there shall be a commandement to the Sheriffe by precept from the Mayor, that the She<g ref="char:EOLhyphen"/>riffe should see the place wasted, and enquire of the waste and dammages accord ng to the Statute and that the enquest should return at the n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt Hust ng of Com<g ref="char:EOLhyphen"/>mon-pleas, and the Plaintiffe shall recover the place wasted, and treble dammages by the Statute.</p>
+               <pb n="28" facs="tcp:176640:16"/>
+               <p>
+                  <hi>Item,</hi> In a Writ of Errour of Judgment, given in Court before the Sheriffe, in actions personall, and in assize of novell disseisin or mortdancestor taken before the Sheriffe, and Record; the Writ of Errour shall be directed to the Mayor and Sheriffe, and the Mayor shall make his precept to the Sheriffs, to cause them to bring the Record and Processe at the next Husting of Com<g ref="char:EOLhyphen"/>mon-Pleas, and that they warn the parties to heare the Record.</p>
+               <p>And after that the Record and Processe bee in the Husting, although the Defendant come by the warning, or make default, the errours shall be assigned, and there the Judgment shall be affirmed or reversed as the Law requires.</p>
+               <p>And it is to be understood, that by the usage of the said City, when a man is condemned in debt, or at<g ref="char:EOLhyphen"/>taint of dammages in any action personall before the Sheriffes, and bringeth such a Writ of Errour, hee him<g ref="char:EOLhyphen"/>selfe which bringeth the writ, ought, and was wont be<g ref="char:EOLhyphen"/>fore that he be delivered out of prison, to find sufficient surety of men abiding in the same City, before the Mayor and Sheriffes, to pay the money, or to have the body forthwith comming, in case that the Judgment be affirmed.</p>
+               <p>And so it shall be done where dammages shall bee recovered in Assizes, before the Sheriffes and Coroner, &amp;c.</p>
+               <p>
+                  <note place="margin">Replegiari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>Item,</hi> In a <hi>Replegiarie,</hi> the processe is such; If any man take a distresse in another mans ground within the said City, he to whom the goods belong, may come to one of the Sheriffes, and have a minister by commande<g ref="char:EOLhyphen"/>ment of the Court, to goe to the party that tooke the goods; and if hee may have the sight, to take the same goods by two wise men; and then there shall be a plaint made in the Sheriffes paper in this manner: Such a one maketh his complaint against such a one, of his goods
+<pb n="29" facs="tcp:176640:16"/> unjustly taken in his house, or in his free-hold, in such a Parish.</p>
+               <p>And the same party shall there find two sufficient pledges to pursue his plaint, and to make return of the goods, or the price thereof, in case that the returne bee awarded, and so he shall have the deliverance. And the parties shall have a day prefixed at the next Husting of Common-Pleas: the Sheriffe shall make a Bill con<g ref="char:EOLhyphen"/>taining all the matter and the plaint, and shall bring the same Bill to the same Husting, and there it shall bee put on the File, and the parties shall be called for. At which day the one and the other may be essoyned of common essoyne.</p>
+               <p>And at what time soever the Plaintiffe makes de<g ref="char:EOLhyphen"/>fault, returne shall be awarded to him that hath them, and the return in such case is awardable three times by the custome &amp; at the third time not replevisable; And at what time soever he that hath thē, maketh default, then it shall be awarded that the same goods shall remaine to the Plaintiffe, <hi>viz.</hi> they shall remain without recove<g ref="char:EOLhyphen"/>ring of any dammages.</p>
+               <p>And if so be, that the Sheriffe may not have a sight of the distresse taken, then hee shall so certifie in the said Husting, and there shall be awarded a Writ of <hi>Wither<g ref="char:EOLhyphen"/>nam,</hi> and thereupon processe shall be made. And if the parties come, and avoury be made, they may pleade to a Judgment, or to an issue of enquest, according as the case requires.</p>
+               <p>And the parties may be essoyned after every appea<g ref="char:EOLhyphen"/>rance. And if the party claime property in the distresse, then that certified in the Husting, processe shall be made by precept, directed to the Sheriffe, to try the proper<g ref="char:EOLhyphen"/>tie.</p>
+               <p>And though the party be essoyned to serve the King in a Replegiary, and at the day that hee hath by essoyne maketh default, or brings not in his warranty, he shall be amerced.</p>
+               <pb n="30" facs="tcp:176640:17"/>
+               <p>In a Writ <hi>de partitione fac,</hi> to make partition between partners of tenements in <hi>London,</hi> a Writ close shall be directed to the Mayor and Sheriffes, containing the matter, according to the forme of such a Wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. And the parties shall be warned by precept of the Mayor, dire<g ref="char:EOLhyphen"/>cted to the said Sheriffes: And the tenants may be es<g ref="char:EOLhyphen"/>soyned, and if they come, they may plead their matter; and if they make default, the Partition shall be awar<g ref="char:EOLhyphen"/>ded by default.</p>
+               <p>
+                  <note place="margin">Of the Beadle.</note>
+                  <hi>Item,</hi> every Beadle by the advise of his Alderman, a<g ref="char:EOLhyphen"/>gainst every Husting of Common-pleas, shall summon 6 Free holders, the better and sufficienter of his Ward, to come to the aforesaid Guild-hall, to passe in En<g ref="char:EOLhyphen"/>quests, if there be need, if there be so many Freeholders in the said Ward. And the Enquest shall bee presented, as is aforesaid, in the Husting of Plea of Land.</p>
+               <p>
+                  <note place="margin">Of Exigents.</note>
+                  <hi>Item,</hi> Briefes of Exigent are demandable in the Hu<g ref="char:EOLhyphen"/>sting, as well in the Husting of Common pleas, as in the Husting of pleas of Land.</p>
+               <p>But those Exigents that are demanded in the one Husting, shall not be demanded in the other Husting. And at the fifth Husting, the out-lawries and veniries shall be awarded in full husting before the Mayor and Aldermen, by the mouth of their Recor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r.</p>
+               <p>And also all Judgments that are given in the Hu<g ref="char:EOLhyphen"/>sting, after every Husting shall be enrolled▪ and sent to the Chamber of Guild-hall aforesaid.</p>
+               <p>
+                  <hi>Item,</hi> It is to bee understood, that all the amercia<g ref="char:EOLhyphen"/>ments made at those Hustings, do appertaine to the She<g ref="char:EOLhyphen"/>riffes of the City.</p>
+               <p>
+                  <note place="margin">Of summoning the Aldermen to the Husting.</note>
+                  <hi>Item,</hi> The Aldermen of <hi>London</hi> are summoned to come to the husting, and they ought by usage of the said City to be summoned by an Officer of the Sher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffe, sitting upon a horse of 100. s. price at least.</p>
+               <p>
+                  <note place="margin">A taile.</note>And if it happen, that between Merchant and Mer<g ref="char:EOLhyphen"/>chant,
+<pb n="31" facs="tcp:176640:17"/> or Citizen and Citizen, there be debate of Debt, and a tayle be shewed forth by the party, and such tayle be denyed, the party that bringeth the tayle shall make his proofe according to the Law Merchant, but shall prove the same by Citizens or Merchants, or other good and loyall men, and not by villaines.</p>
+               <p>
+                  <hi>Item,</hi> the Assizes of <hi>Mordancester</hi>
+                  <note place="margin">Of assizes of Mortdancestor</note> are held and deter<g ref="char:EOLhyphen"/>minable before the Sheriffes, and Coroner of <hi>London,</hi> on the Satturdayes, from fourteene dayes to fourteene dayes at the Guild-hall; the processe wherein is in this manner, <hi>viz.</hi>
+               </p>
+               <p>He that will have such assize, shall come in the Hu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting, or in the congregation of the Mayor and Alder<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en in the Chamber of Guild-hall, any munday as it is said in the assize of fresh force, and shal make a Bill c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntaining the forme of assize of Mortdancestor, accor<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to the case, and the Bill shall be enrolled.</p>
+               <p>And afterward the common Clerk shall make ano<g ref="char:EOLhyphen"/>ther Bill, containing the whole matt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of the first Bill, making mention of the title of Husting, or of the day of the Congregation of the Mayor and Aldermen; and that Bill shall be sent to the Sheriffes, or to one of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m to serve according to the custome. And which Bill shal be served by any Sergeant, or other Minister of the She<g ref="char:EOLhyphen"/>riffes, <hi>viz.</hi>
+               </p>
+               <p>The said Minister the Wednesday next after the live<g ref="char:EOLhyphen"/>ry of the Bill shall make his summons at the tenements demanded by witnesse of two Free-men of the Cittie, which ought to be at Guild-hall the Saturday next en<g ref="char:EOLhyphen"/>suing, to array and summon the Jurors: and so after<g ref="char:EOLhyphen"/>wards against the Satturday from fourteene dayes to fourteene dayes at their wills, and so may the tenants sue if they will for their deliverance.</p>
+               <p>And the arraygnments of the pannels of such assizes shal be made by the Sheriffes &amp; their Ministers, or by the Mayor and Aldermen, if any os the parties shall come
+<pb n="32" facs="tcp:176640:18"/> to demand upon reasonable cause, in manner, as the use is in assizes of fresh force.</p>
+               <p>And in such assizes of Mortdancestor, the parties may be essoyned as at the Common-law, and the tenants may vouch to warranty within the said City, and also in a forraign County, if the Vouchee have no tene<g ref="char:EOLhyphen"/>ments within <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he City.</p>
+               <p>And if the tenants plead a Release, bearing date in a forraign County, or other forreign matter that may not be tryed within the City, or that they vouch to warran<g ref="char:EOLhyphen"/>ty in a forraign County, him that hath nothing within the City: then at the suit of the party the Record shall be brought in the Court of our Lord the King by a writ delivered to the Sheriffes and Coroner, and there shall such forreign pleas, and forreign voucher be tryed, and determined, and after sent back to the said Sheriffes and Coroner, to goe forward and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceed, according to the custome of the City.</p>
+               <p>And continuance shall bee made in such assizes upon the causes aforesaid, and upon other reasonable cau<g ref="char:EOLhyphen"/>ses.</p>
+               <p>And when the Assizes shall be determined, &amp; Judg<g ref="char:EOLhyphen"/>ment ought to be given▪ then the same Assizes shall bee engrossed, and entred of r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cord by the said Sheriffes and Coron<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r▪ and after sent to Guild-hall, to remaine there of Record, in manner as the Assizes of fresh force ought to be.</p>
+               <p>
+                  <note place="margin">A custome that free-men of the City of London may bequeath their tenements which they were solely sei<g ref="char:EOLhyphen"/>zed.</note>The City of <hi>London</hi> is an ancient City of our Lord the King that now is, and of his Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>genitors: In which City, such a Custome is held, and whereof the time is not to the contrary, hath been held, that every Freeman of the aforesaid City being soly seized of any Lands or Teneme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts within the aforesaid City, by all the time a<g ref="char:EOLhyphen"/>foresaid, might and may bequeath such his Tenements to any pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns or person it likes him best, as well secu<g ref="char:EOLhyphen"/>lar, as religious, in fee-taile, or for terme of his life, &amp;c.</p>
+               <pb n="33" facs="tcp:176640:18"/>
+               <p>
+                  <hi>Item,</hi> Assizes of novell disseisin called fresh force of lands and tenements, and rents, within the City of <hi>London,</hi> of disseisins made within 40 weekes, are held and are determinable before the two Sheriffes, and the Coroner of the said City in common every Satur<g ref="char:EOLhyphen"/>day in Guild-hall, except certain times that the assi<g ref="char:EOLhyphen"/>zes may not be held for reasonable causes: and there<g ref="char:EOLhyphen"/>in the processe in this manner, <hi>viz.</hi>
+               </p>
+               <p>When any man is agrieved and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed of his Freehold within the City or Suburbs thereof; he shall come to any husting held at Cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or for want of the husting to the Ghamber of Guild<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all to the con<g ref="char:EOLhyphen"/>gregation of the Mayor and Aldermen any Munday, and there shall make a Bill, and the Bill shall bee thus.</p>
+               <p>
+                  <hi>A.</hi> of <hi>D</hi> complaines of intrusion against <hi>C.</hi> of <hi>E.</hi> of his free tenement, in such a Parish in <hi>London,</hi> or in such a Parish in the Suburbs of <hi>London.</hi>
+               </p>
+               <p>And the same Bill shall be enrolled; and there<g ref="char:EOLhyphen"/>upon another Bill shall be made, containing the whole matter of the former Bill by the common Clerke of the City, making mention of the title of the husting, or of the day of the Congregation of the Mayor and Aldermen.</p>
+               <p>And that Bill shall be delivered to the Sheriffe, or to one of them, to make processe, and doe right to the parties.</p>
+               <p>And then ought the Bill to be served the Wednes<g ref="char:EOLhyphen"/>day next ensuing, <hi>viz.</hi> The Sheriffes Officer to whom the Bill is delivered, shall summon the tenant, or the tenants mentioned in the said Bill of assize, by the view of two Freemen of the City, and that at th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> te<g ref="char:EOLhyphen"/>nements where the disseisin is made, or at the tene<g ref="char:EOLhyphen"/>ments whereout the Rent is supposed to be issu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, and it shall be said there to the tenants, that they keep their day at Guild hall the Satturday then next ensu<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:176640:19"/> at their perill: And the names of the two Sum<g ref="char:EOLhyphen"/>moners shall be endorsed upon the Bill: and then the Plaintiffe may sue to array the assise, and summon the Jurors against that Satturday, or against other Sattur<g ref="char:EOLhyphen"/>dayes after, at his will.</p>
+               <p>And so may the tenants sue for their deliverance, if they will, and such summons shall be made the Fryday before the Satturday.</p>
+               <p>And the arrayments at the perils of the Jurors, shall be made by the Sheriffes or their Officers, or by the Mayor and Aldermen, if any of the parties upon a reasonable cause will pray the same.</p>
+               <p>And afterwards the same assises shall bee pleaded, and ruled for the most part also as it, otherwise at the common-law.</p>
+               <p>And if a Release, bearing date in a forreign Coun<g ref="char:EOLhyphen"/>ty, Bastardy or other forraign matter, which cannot be tryed within the said City, bee pleaded in such as<g ref="char:EOLhyphen"/>sizes; then the Plaintiffe may sue, to cause the Re<g ref="char:EOLhyphen"/>cord to bee brought to the Court of our Lord the King, to try the matter there, as the case requires: and when the matter shall bee determined in the Kings Court, all the processe shall be sent backe to the said Sheriffes, and Coroner, or to their Successors, or to proceed forward, according to the custome of the Ci<g ref="char:EOLhyphen"/>ty, in manner, as it hath been heretofore.</p>
+               <p>
+                  <note place="margin">That no discon<g ref="char:EOLunhyphen"/>tent is within the City of assi<g ref="char:EOLhyphen"/>zes, &amp;c.</note>And it is to be understood, that there hath not been any discontinuance in such assises: neither is there any mention made in the Record, of the dayes be<g ref="char:EOLhyphen"/>tween the assize brought, and the day that the assize shall be taken, or Judgment given; if it be not for a necessary cause, or that such assizes be taken before the Sheriffes and Coroner, as is aforesaid, and Judgment be thereof given: then shall such assizes determined, be entred of Record; and after shall be brought into
+<pb n="35" facs="tcp:176640:19"/> the Chamber of Guildhall, to remaine there in the Treasury as of Record.</p>
+               <p>And it is to be understood, that a man may not en<g ref="char:EOLhyphen"/>ter into any tenements within the said City by force, nor hold any tenements by force and armes in distur<g ref="char:EOLhyphen"/>bance of the peace, &amp;c.</p>
+               <p>
+                  <hi>Imprimis.</hi>
+               </p>
+               <p>It is to be understood that the Sheriffes holds the Courts of our Lord the King before them in the Guild-hall of <hi>London,</hi> and plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of debt,<note place="margin">Of the Sheriff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gourt.</note> of any summe whatso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver, and of all other actions personals, at the suit of the parties.</p>
+               <p>And each of the said Sheriffes holds his Court at Guildhall by himselfe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>everally, and that by vertue of the plaints and quarrels made before the one and the other of the same Sheriffes, aswell in their Countors, as at Guildhall according to the custome of the afore<g ref="char:EOLhyphen"/>said City.</p>
+               <p>And every of the said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heriffes use to hold by him<g ref="char:EOLhyphen"/>self two generall Courts in the weeke, and every day for the deliverance of forraigners &amp; strangers, if need be, if they be not let by Festivall dayes, or other rea<g ref="char:EOLhyphen"/>sonable causes.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>The Clarkes and Officers of the said Sheriffes pre<g ref="char:EOLhyphen"/>sently upon the plaints made, use to award a capias,<note place="margin">Action of deb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> or other processe against the Defendants, by the testi<g ref="char:EOLhyphen"/>monies of the Sergeants of the said Office thereto de<g ref="char:EOLhyphen"/>puted, rs well in the said Countors, as at Guild-hall: and it is the use to award a capias in plaint of Debt, Accompt, Covenant, and other Actions personall whatsoever, &amp;c.</p>
+               <pb n="36" facs="tcp:176640:20"/>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>
+                  <note place="margin">Action of debt</note>Hee that is so arrested at the suite of the party for Debt, or other action personall, may finde Sureties in the said Courts, or else-where, before the Sheriffes, or their Clarkes thereto deputed, to come to the next Court at the said Guild-hall, holden before the same Sheriffe, before whom the plaint was made, upon this condition; that if the Defendant come not at the said next Court to keepe his day; then hee shall bee con<g ref="char:EOLhyphen"/>dempned in the debt mentioned in the plaint. Saving the Plaintiffe, if he be present, or may well come in Court, shall be examined upon his Oath, what summe is cleerly due to him, and for what cause, more then which is found to be due by examination; the Plain<g ref="char:EOLhyphen"/>tiffe shall recover nothing but his dammages, which shall be judged by taxation of the Court, or by en<g ref="char:EOLhyphen"/>quest, if need be.</p>
+               <p>And if the Defendant cannot be found, then shall the main pernors be taken and charged for the Debt, and the aforesaid dammages.</p>
+               <p>
+                  <hi>Item,</hi>
+               </p>
+               <p>
+                  <note place="margin">Action of tres<g ref="char:EOLhyphen"/>passe.</note>If there be a plaint of trespasse, of battery, of goods taken, or other personall action, where a man ought to recover dammages, if the Defendant make default in such case after that he is arrested, and hath found sure<g ref="char:EOLhyphen"/>ties, as is aforesaid; then he shall be judged, as convi<g ref="char:EOLhyphen"/>cted, and the Plaintiffe shall declare by bill the cause of the suite, and the quantity of such dammages, and uch plaec.</p>
+               <p>And thereupon an enquest of office shall be brought from the same place to taxe the dammages for the Plaintiffe.</p>
+               <p>And if the Defendant be not to be found, the main pernors shall be charged as afore.</p>
+               <pb n="37" facs="tcp:176640:20"/>
+               <p>And if the Court may bee truly certified by the same Enquest, or by sufficient examination of the Plaintiffe, that the Defendant is not culpable in such case, the Plaintiffe shall recover nothing, notwithstan<g ref="char:EOLhyphen"/>ding the default, &amp;c.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>When any such main pernors be arrested, and com<g ref="char:EOLhyphen"/>mited to prison, because the principals are not found: yet notwithstanding whensoever the principall may be found, and is under arrest at the suit of the maine pernors, then the said maine pernors shall bee delive<g ref="char:EOLhyphen"/>red.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>If a man be arrested in a plea of Accompt, and finde Sureties to come at his day, or if he do not plead to the issue, or plead in Judgment, and find Sureties to at<g ref="char:EOLhyphen"/>tend untill the suit be determined, according to the Custome of the City: yet notwithstanding at what houre that the principall Sureties will come into Court; then if the Sureties come, Auditors shall bee assigned to take the Accompt in presence of the Plaintiffe, and the main pernors.</p>
+               <p>And the Sureties, shall be demanded if they know any thing to say in discharge of the Accompt. And if the Sureties will not come, then the Plaintiffe shall recover his arrearages, by examination and his Oath. And in the same manner it shall be, if the Defendant be convict of Accompts by enquest.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>If a playnt be made against any Free-man,<note place="margin">Of common Free-men of the City, and of those that be resian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the same.</note> being sufficient, or against another sufficient man, and resi<g ref="char:EOLhyphen"/>dent within the City; such a Defendant shall be sum<g ref="char:EOLhyphen"/>moned by any Sergeant of the Sheriffe to come to Guild-hall to answer to the party Plaintiffe at the Court of Denizens.</p>
+               <p>At which Court, if he make default, he shall bee a<g ref="char:EOLhyphen"/>mered,
+<pb n="38" facs="tcp:176640:21"/> and the grand distresse shall be presently awar<g ref="char:EOLunhyphen"/>ded by usage of the City; and it shall then bee awar<g ref="char:EOLhyphen"/>ded, that the dores of the Defendant shall bee fastned and ensealed untill he shall come to answer to the par<g ref="char:EOLhyphen"/>ty plaintiffe.</p>
+               <p>And at every Court of Denizens that hee is deman<g ref="char:EOLhyphen"/>ded, and comes not, he shall lose his issues. And if hee breake the sequestration, and that be testified in Court by the Sergeant; then it shall bee awarded, that the <hi>defend</hi> be arrested by his body. And if he pay a fine for the contempt and when he is so arrested, he shall finde suff cient pledge to come then at the next Court, to an<g ref="char:EOLhyphen"/>swer to the party, upon a pain limitted before the ca<g ref="char:EOLhyphen"/>pias is awarded.</p>
+               <p>And if such a defend make more delayes, and it be te<g ref="char:EOLhyphen"/>stified by the Sergeant, that the Defendant like to e<g ref="char:EOLhyphen"/>scape away or is not sufficient; then shall bee awarded the capias to take his body, or to arrest, and take his goods.</p>
+               <p>And that after the Defendant hath accorded with the plaintiffe, there shall be a commandement that the Defendants dore shall be opened, and the goods taken and of them to make return at the Court as of forraign attachment.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>If any parties come and plead to the Enquest▪ or in Judgmenr, then they shall bee ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red according to the usages of the City without any es<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyne had at such personall actions before or after.<note place="margin">Challenges af<g ref="char:EOLhyphen"/>ter default.</note>
+               </p>
+               <p>And although that such a Defendant that hath plea<g ref="char:EOLhyphen"/>ded to an Enquest, make default after the Enquest bee joyned; yet notwithstanding, if hee come afterwards when the Enquest shall be charged, hee shall have his challenges to the Jurors, and shall give his evidences, notwithstanding the default.</p>
+               <pb n="39" facs="tcp:176640:21"/>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>After the parties be at issue of enquiry,<note place="margin">That when the Enquest is summoned, &amp; returned in court, the De<g ref="char:EOLhyphen"/>fendant is not demandable. How a Free<g ref="char:EOLhyphen"/>man oaght to wage his law w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th feven mens bands.</note> the same parties are not demandable before that the Enquest be summoned; but the Enquest may be summoned as well at the suit of the Defendant, as at the suit of the plaintiffe.</p>
+               <p>And it is to be understood, that in a plea of Debt, the Defendant may wage his law by usage of the said City, that he oweth nothing to the plaintiffe, <hi>viz.</hi> If he be a man in the franchise within the City, or resiant within the same City with seven mens hands, whereof his own name to be one: And such Defendants may make their Law presently in Court, if they have men ready, or otherwise shall have day to wage the Law, the next Court holden.<note place="margin">How a For<g ref="char:EOLhyphen"/>reigner ought to wage his law with <hi>3</hi> hands.</note>
+               </p>
+               <p>And if the Defendant be a Forreigner Stranger <hi>&amp;</hi> not resiant in the City, hee may wage and make his Law presently with three hands, his own name being one, that he oweth nothing to the plaintiffe▪ and so be quit.<note place="margin">This is nei<g ref="char:EOLhyphen"/>ther law nor cuisome used at this day.</note>
+               </p>
+               <p>And if hee have not two men ready to make an oath with him; then the defendant at the request of the plaintiffe, ought to go under the custody of a Sergeant of the Court to 6 Churches nearest to Guild-hall, and in the same Churches to swear that the oath which he took in Guild hall was good. And then the Defendant shall be brought back to Guild hall, and have his judg<g ref="char:EOLhyphen"/>ment to bee quit, and the plaintiffe shall be amerced. And in the same manner it shall be done in other acti<g ref="char:EOLhyphen"/>ons personall, where the Law-wager is allowed, And where women be in such cases impleaded, and wage their Law, they may make their Law with men or women at their will.</p>
+               <pb n="40" facs="tcp:176640:22"/>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>
+                  <note place="margin">That a Free<g ref="char:EOLhyphen"/>man ought to wage law in a plea of trespas with <hi>7</hi> hands.</note>If a Freeman within the City be impleaded by way of trespasse for goods taken, or for Battery, where no bloud is drawn, nor no wound apparent; and for o<g ref="char:EOLhyphen"/>ther trespasse supposed to be done against the peace, such a Freeman so impleaded, may wage, and make his Law by the usage of the City, that he is not cul<g ref="char:EOLhyphen"/>pable with seven hands as is aforesaid.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>Actions of Debt or of Covenant are maintainable against Exor. and Admoror. without especialty. And such Exec. and Administrat. by usage of the said City, when they come to answer, they may have their Law by so many hands as the Court will award upon these words, That they know nothing of the duty▪ nor of the contract, nor of the covenant, and that they thinke in their consciences, that their Testator at his death, ought nothing to the Plaintiffe, nor had broken any Cove<g ref="char:EOLhyphen"/>nant; and by such manner be discharged.</p>
+               <p>And if a man be impleaded by plaint of Debt, for victuals dispended in the house of the Plaintiffe, or of rent of his houses let called Hushire: in such cases the Defendant shall not have his Law, nor no protection in such cases hath been allowed.</p>
+               <p>
+                  <hi>Item.</hi>
+               </p>
+               <p>Where a woman that hath a husband useth any Craft within the said City by her selfe only, where<g ref="char:EOLhyphen"/>with her husband doth not meddle; such a woman shall be charged as a sole woman for all that which toucheth her said Craft.</p>
+               <pb n="41" facs="tcp:176640:22"/>
+               <p>And if the husband and the wife bee impleaded in such a case, the wife shall plead as sole in a Court of Record, and shall have her law and other advantages by way of plea, as a sole woman, and if she shal be con<g ref="char:EOLunhyphen"/>demned she shall be put in prison, untill she hath made agreement. <hi>Item,</hi> The husband nor his goods shall be in such a case charged nor impeached, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> If a woman that hath a husband,<note place="margin">A house hired by a woman sole.</note> as a woman sole hire any house or shop within the said City, shee shall bee charged to pay the rent of the said house or shop, and shal be impleaded and pursued as a sole wo<g ref="char:EOLhyphen"/>man, by way of debt, if need be, notwithstanding that she was marryed at the time of the Lease, the lessor not knowing thereof.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Trespasse done by the wife,</note> If a plaint of trespasse be made against a man and his wife for a trespasse, done by the wise solely, then the wife shall answer sole without her husband, if the husband come not, and shall have plea as a sole woman, and if she be attainted of trespasse, she shall be condemned, and committed to prison, untill shee hath made agreement.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Trespasse done to the wife.</note> If a plaint of trespasse be brought by the hus<g ref="char:EOLhyphen"/>band and the wife, of Battery done to the wife, in such case the wife shall be received for her selfe, and her husband to pursue and recover dammages against the defendant, although the husband be not present.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Action of debt.</note> Where a plaint of debt is brought against the husband, and the plaintiffe acknowledgeth that the husband made the contract with him by the hand, in<g ref="char:EOLhyphen"/>tervening and transaction of the defendants wife, then the same defendant shall have aid of his wife,<note place="margin">Aid of the wife</note> &amp; shall have day, untill the next Court, to consult with his wife; and the same day shall be given to the Plain<g ref="char:EOLhyphen"/>tiffe, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> When any defendant in plea of debt,<note place="margin">How a man shall be termed a Freeman of London.</note> or other action personall, wageth his law as a Freeman of the
+<pb n="42" facs="tcp:176640:23"/> City, and the plaintiffe demands how he is free, it be<g ref="char:EOLhyphen"/>hoveth that the defendant alleadge, that he is free by redmeption: and if he say that he is free by redemp<g ref="char:EOLhyphen"/>tion, the plaintiffe may cause that the defendant to shew his Record at the next Court. And if hee faile of his Record, then he shall be attainted, and adjudged convict in the cause. And if the defendant alleadge that he is free by birth, the plaintiffe may say that hee was not born in the City, and that shall be enquired by the Enquest taken in the said City, of such a place where the defendant will alleadge that he was born, and that issue is peremptory.</p>
+               <p>
+                  <note place="margin">Of contributi<g ref="char:EOLhyphen"/>on by obligees.</note>
+                  <hi>Item,</hi> Where two or more are obliged within the City by obligation of debt, and every of them in the whole sum; then if one of the obligees pay the whole, or he to whom the obligation is made, bringeth a suit in the same City, and recovers the debt against one of the obligees solely; then he that hath paid the debt or is so condemned, may sue against the other obliges by plaint or debt, joyntly or severally to make con<g ref="char:EOLhyphen"/>tribution: so that every one shall pay his part, accor<g ref="char:EOLhyphen"/>ding to the usage of the City, saving reasonable answer to the parties.</p>
+               <p>
+                  <note place="margin">Of forraigne attachment.</note>
+                  <hi>Item,</hi> When a plaint of debt is brought before any of the said Sheriffes, and testimony is given by the Of<g ref="char:EOLhyphen"/>ficer, that the defendant hath not sufficient within the said City and it is alleadged, that the defendant hath goods and chattels, or debts in other hands, or in o<g ref="char:EOLhyphen"/>thers, keeping within the said City, and the plaintiffe prayeth that such goods and chattels may bee arrested, and an extent may be made of the debts, then at the suit and suggestion of such plaintiffe, such goods and chattels shall be arrested, wheresoever they be found within the City, and an extent shall bee made of the debts, at the perill of the plaintiffe; and this done, the plaintiffe shall pursue at four Courts before the same
+<pb n="43" facs="tcp:176640:23"/> Sheriffe before whom the plaint was affirmed, untill the defendant be four times demanded: And if the de<g ref="char:EOLhyphen"/>fendants come not at the fourth Court, and hath made four defaults, then shall the goods and chattels arrest<g ref="char:EOLhyphen"/>ed, be taken and delivered to the plaintiffe. And if the goods amount not to the value of the debts, then the debts extended in the hands of the debtors shall be le<g ref="char:EOLhyphen"/>vyed, and delivered to the same plaintiffe in part of payment of the debt demanded,</p>
+               <p>And such arrests of goods and extents of the mony are called forraign attachments, according to the cu<g ref="char:EOLhyphen"/>stome of the City: And thereupon the plaintiffe shall find sufficient surety to the Court by pledge, before that the livery thereof be made upon this condition, to make restitution to the defendant of all the goods and chattels so taken, or of the value of the same, and of such money whereof he hath had execution, if so be that the defendant come within the yeare and the day next ensuing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the Court, and that he can discharge himself, and justifie by law that he ought nothing to the plaintiffe at the time in the plaint mentioned. And if the same defendant will come within the yeare and the day, as is aforesaid, before execution, or after, and find surety to justifie himselfe, and pleade with the plaintiffe then he shall have a <hi>scire fac.</hi>
+                  <note place="margin">Scire fac.</note> out of the same Record against the party, that hath had such executi<g ref="char:EOLhyphen"/>on, to warne him to come at the next Court, if hee knowes any thing to say, why restitution should not be made in manner aforesaid.</p>
+               <p>And if he against whom the <hi>scire fac.</hi> is sued, bee warned, and make default, or that it be testified, that he hath nothing in the City; then hee that made the <hi>scire fac.</hi> shall have restitution of all such goods and chattels so taken, or of the value thereof, and of all the monies which the party hath received by the forraigne attachment.</p>
+               <pb n="44" facs="tcp:176640:24"/>
+               <p>In the same manner he shall have restitution, if he can discharge himself by way of plea. And in the same manner restitution shall be made, according to the rate or proportion, if the defendant can discharge him<g ref="char:EOLhyphen"/>self by way of plea, of parcell of the debt, although he cannot discharge himself by way of plea of the whole. And if the party that hath had such execution, be not sufficient to make restitution in the manner aforesaid, then his pledges shall be charged.</p>
+               <p>And if he upon whom such forraigne attachment is made, come not within the yeare and the day, to justi<g ref="char:EOLhyphen"/>fie himselfe, as is aforesaid, then he shall bee barred for ever after.</p>
+               <p>And it is to wit, that having such forraigne attach<g ref="char:EOLhyphen"/>ment, if any other will come in Court of Record be<g ref="char:EOLhyphen"/>fore the 4. default be recorded, or afore execution bee sued,<note place="margin">The proofe in sorraign attach<g ref="char:EOLunhyphen"/>ment.</note> and be ready to prove, that the goods arrested were his proper goods at the time of the arrest made, and yet are, and not his for whose goods they were arrested, and that that party for whose goods they were arrested, hath no property in the same goods, nor any other whatsoever, but himself alone, to the value of a groat, then he shall have the proof, and shall swear in manner aforesaid, by himselfe, and shall have deli<g ref="char:EOLhyphen"/>vered unto him all such goods so arrested, or parcell thereof, according as he hath made the proofe there<g ref="char:EOLhyphen"/>of.</p>
+               <p>
+                  <note place="margin">Of the same.</note>
+                  <hi>Item,</hi> Likewise a servant shall make proofe of his Mastresses goods being in his custody, according to the discretion of the Court. And also if the defendant in such forraign attachment come in Court at the 4. de<g ref="char:EOLhyphen"/>fault recorded or before, be shall be received to pleade with the plaintiffe: And in the same manner shall be received if he come before execution sued: so that the plaintiffe be present in Court, or otherwise be warned. And in the same manner, in such forraign attachments
+<pb n="45" facs="tcp:176640:24"/> those in whose hands any goods be arrested by sugge<g ref="char:EOLhyphen"/>stion of the plaintiffe. And those in whose hands any monies be extended may come in Court of Record before the same Sheriffe, and be excused and dischar<g ref="char:EOLhyphen"/>ged by their oath, that they have no such goods in their custody, and that they owed not a peny to such defen<g ref="char:EOLhyphen"/>dants at the time that the arrests and extents were so made in their hands.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of forraigne matter pleaded out of the City</note> Where a man is impleaded before one of the Sheriffes of <hi>London,</hi> by plaint of debt and the plaintiffe sheweth forth an obligation, bearing date in <hi>London</hi> in proofe of his debt, whether the said obligation be sim<g ref="char:EOLhyphen"/>ple or endorsed, or by Indentures concerning the same in such case, by usage of the City, the defendant shall not be received to plead any acquittance or release of the plaintiffe, bearing date in a forreign County, nor any payment made, nor condition, nor other matter which may not be enquired and tryed within the same City.</p>
+               <p>And if any defendant in such a case plead any such acquittance, or release, or alleadge any payment, or o<g ref="char:EOLhyphen"/>ther matter to be done in a sorreign County, out of the said City, to put the Court ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of jurisdiction; and if that such a defendant will not say any other matter, he shall be concluded for default of answering. But, if it happen that the endorsement of the obligation, or the Indentures thereof made do, make expresse menti<g ref="char:EOLhyphen"/>on of doing or performing any condition, or if other matter be alleadged by the defendant, then the Court shall surcease, and it shall be said to the plaintiffe, that he sue at the common Law. And in the same manner is used a pleint of trespasse, and other actions perso<g ref="char:EOLhyphen"/>nall of bargaines, and contracts made within the said City the defendants shall not be received to plead, nor alleadge a matter out of the said City, if not such a matter that may be enquired of, and tryed within the same City.</p>
+               <pb n="46" facs="tcp:176640:25"/>
+               <p>
+                  <note place="margin">Of an obliga<g ref="char:EOLhyphen"/>tion dated at a certain place.</note>
+                  <hi>Item,</hi> Where an obligation is produced, which bea<g ref="char:EOLhyphen"/>reth not date in any certain place, and the plaintiffe in his count doth alleadge, that the said obligation was made in a certain Parish within the City of <hi>London,</hi> and the defendant alleadgeth, that the same obligation was made in a certain place out of the City, and bee ready to averre the same, and therewithall doth pleade a matter there, in avoydance of the said obligation. And the plaintiffe offereth to try by the Country, that the said obligation was made within the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> in manner, as to the Court shall seem good, in such case is used to take the enquest in <hi>London,</hi> and the Pa<g ref="char:EOLhyphen"/>rish where the plaintiffe counted that the obligation was made, if the plaintiffe pray the same. And if it bee found that the obligation was made in <hi>London,</hi> as the plaintiffe hath porposed by his count, then shall the defendant be condemned in the debt, and in the dam<g ref="char:EOLhyphen"/>mages, to be taxed by the same Enquest.</p>
+               <p>
+                  <note place="margin">Of a double obligation.</note>
+                  <hi>Item,</hi> Where an obligation is made double by en<g ref="char:EOLhyphen"/>dorsement, or by Indentures, and the party bound is impleaded and acknowledgeth the obligation, and the day of payment is incurred, as it may appeare by the same obligation; yet notwithstanding, the plaintiffe ought to recover but only the cleere debt which is be<g ref="char:EOLhyphen"/>hind, and that by the oath of the plaintiffe, or by the true information of his Attorney, if the pleintiffe bee not present, and not the double debt contained within the said obligation. And his dammages shall bee taxed him by the Court, according to the time past by their discretion, or by the enquest.</p>
+               <p>And although the defendant in such a case, against such a double obligation made, pleades that it was not his deed, or, that he hath performed the dayes of pay<g ref="char:EOLhyphen"/>ment contained in the said endorsment, or in the In<g ref="char:EOLhyphen"/>dentures thereof made, or other like matter, and ther<g ref="char:EOLhyphen"/>upon puts himself upon the Enquest, and it is found a<g ref="char:EOLhyphen"/>gainst
+<pb n="47" facs="tcp:176640:25"/> the defendant by verdict of the Enquest: Yet the plaintiffe shall recover nothing but that which is cleerely found due by the Enquest, <hi>viz.</hi> the single duty, and his dammages, taxed by the same Enquest. And if the obligation be single, which is shewed forth, and the party defendant doth acknowledge the obligation, and the day be past, and the defendant alleadgeth that the plaintiffe is payed parcell of the debt; then the plain<g ref="char:EOLhyphen"/>tiffe at the request of the defendant shall be examined by his oath, how much money is behind.</p>
+               <p>And in such a case, the plaintiffe shall recover no<g ref="char:EOLhyphen"/>thing over that which he will sweare is due and be<g ref="char:EOLhyphen"/>hind, and his dammages shall be taxed by the Court. And if against such a single obligation made, the De<g ref="char:EOLhyphen"/>fendant plead that it is not his deed, and it bee found, that it is the defendants deed, yet the plaintiffe shall recover nothing but what is found due by the Enquest, and clearly behinde, and his dammages taxed by the same Enquest; and the defendant in such case shall be fined for denying his deed, and in other cases shall bee amercyed, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of an obligati<g ref="char:EOLhyphen"/>on upon certain conditions.</note> where an obligation is made of a certaine sum upon certain conditions to be performed, by the en<g ref="char:EOLhyphen"/>dorsement, or by the Indentures thereupon made, and thereupon a plaint is made, and the parties be at tra<g ref="char:EOLhyphen"/>vers, and at issue, upon some especiall condition bro<g ref="char:EOLhyphen"/>ken, and it is found by the Enquest upon the parties own shewing against the defendant, which is so bound and that he hath broken that condition: yet the plain<g ref="char:EOLhyphen"/>tiffe shall not recover the whole obligation, but hee shall recover the dammages which he hath sustained, by reason of the condition broken; and the damma<g ref="char:EOLhyphen"/>ges shall be taxed by the same enquest, and the obliga<g ref="char:EOLhyphen"/>tion shall be saved, for the saving of the other condi<g ref="char:EOLhyphen"/>tions hereafter. But, some make a question of this cu<g ref="char:EOLhyphen"/>stome.</p>
+               <pb n="48" facs="tcp:176640:26"/>
+               <p>
+                  <note place="margin">Of acquittan<g ref="char:EOLhyphen"/>ces and other evidences al<g ref="char:EOLhyphen"/>leadged to bee in forraigne parts.</note>
+                  <hi>Item,</hi> If an obligation of debt be shewed forth, and the defendant alleadgeth that he hath an acquittance or Indenture, or other thing ensealed by the plaintiffe, the which may stand him in stead, and be a discharge against the plaintiffe, if he had them ready in hand, and say further, that the miniments are in a forraigne County, and out of the City, and bee ready to make oath thereof; then the same defendant after his oath made, shall have a day assigned by the Court to have his said miniments ensealed at a certain Court after, according to the distance of the place, and thereupon shall find pledge at his perill, to come at his said day, and bring the same deed.</p>
+               <p>And if he make default at that day, or if hee faile of that which he alleadged, then hee shall be condemned in the said obligation, and dammages shall be taxed by the Court, saving that the plaintiffe, or his Attorney, shall be examined of the duty.</p>
+               <p>
+                  <note place="margin">Of Fugitives.</note>
+                  <hi>Item,</hi> If a pleint of debt be made against a Freeman and resiant within the City, or by the Law of the Ci<g ref="char:EOLhyphen"/>ty, hath a summons, because of the Franchise, If the plaintiffe come to the Sheriffe, and bring with him six or foure freemen, and credible of the said City, that will testifie, that the defendant is flying away, and that he will withdraw and absent himselfe; then the said Sheriffe upon their testimony, may arrest the said de<g ref="char:EOLhyphen"/>fendant by his body or goods, as of a Forregner, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> The Sheriffe may hold before them pleas, of ta<g ref="char:EOLhyphen"/>king personall things, instead of a Replegiare, and a<g ref="char:EOLhyphen"/>voury may be made, and return awarded to such pleas as in the Husting, if the cause touch not free tenants, And such a suit is called<note n="(a)" place="margin">A plea of taking and de<g ref="char:EOLhyphen"/>taining of goods. The defendant shall answer, &amp; the plaintiffe very presently,</note>
+                  <hi>de placito captionis &amp; deten<g ref="char:EOLhyphen"/>tionis catallorum,</hi> and pledges shal be found to make re<g ref="char:EOLhyphen"/>turn of the goods, or of the value, as in a Replegiare.</p>
+               <p>
+                  <hi>Item,</hi> It is the usage in such actions personall be<g ref="char:EOLhyphen"/>fore the Sheriffes, that at the first day when the parties
+<pb n="49" facs="tcp:176640:26"/> appeare, and the plaintiffe hath counted against the defendant, the same defendant shall answer the same day without having any day given him to emparle: And in the same manner, if the defendant pleades any plea or matter alledged against the plaintiffe, the plaintiffe shall presently reply without having a daies respit to emparle, without the assent of the parties.<note place="margin">What Custome shall be discus<g ref="char:EOLhyphen"/>sed by the May or and Alder<g ref="char:EOLhyphen"/>men.</note>
+               </p>
+               <p>
+                  <hi>Item,</hi> If some customes or usages are pleaded or al<g ref="char:EOLhyphen"/>ledged in the Sheriffes Courts, whereof the Sheriffes nor their Ministers be fully informed: then such cu<g ref="char:EOLhyphen"/>stomes and usages shall be discussed by the Mayor &amp; Aldermen, and that before judgment thereof ren<g ref="char:EOLhyphen"/>dred.</p>
+               <p>And it is to be understood, that no adjornment is made in the Sheriffes Courts, nor any day given by pre-appointment, but onely that the parties should keep their day at the next generall Court, if it be not upon some speciall cause.</p>
+               <p>
+                  <hi>Item,</hi> Actions of debt<note place="margin">Of Action of debt.</note> are maintainable by usage of simple grants and assignments, and of pledges, and of a covenant simply, without specialty.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of Tailles ensealed.</note> A Taile of debt ensealed by usage of the ci<g ref="char:EOLhyphen"/>ty, is as strong as an obligation: and where a plaint of debt is made, and such a Taile ensealed shewed forth in proofe of the debt, the defendant shall not have his law that he oweth nothing, nor any other matter, no more then against an obligation. He may well say, that the day of payment is other then the plaintiffe counts.</p>
+               <p>
+                  <hi>Item,</hi> The Sheriffes of <hi>London</hi> use,<note place="margin">Of taking of Recognisances.</note> and each of them by himselfe, to take Recognizances of debt in their Courts, of what sum soever: And if the day of pay<g ref="char:EOLhyphen"/>ment be past, and the money not paid, then at the suit of him to whom the Recognizance was made, if hee be a Denizen, all the goods and chattels of the Recog<g ref="char:EOLhyphen"/>nizer found within the City, shall be taken and delive<g ref="char:EOLhyphen"/>red
+<pb n="50" facs="tcp:176640:27"/> to the party, to the value that the debt contai<g ref="char:EOLhyphen"/>ned in the said Recognisance amounteth to, without extending any land of the Recognisor. And if the year be past, then a <hi>scire fac.</hi> shall be sued against the Re<g ref="char:EOLhyphen"/>cognizor to come in, if hee knoweth any thing to say, wherefore execution shall not be made of his goods, as is aforesaid: the which Recognizance shall be en<g ref="char:EOLhyphen"/>tered in the Sheriffes paper.</p>
+               <p>
+                  <note place="margin">Safe custody of prisoners.</note>
+                  <hi>Item,</hi> The Sheriffes may hold by usage with priso<g ref="char:EOLhyphen"/>ners soever before them condemned or eommitted unto their custody, as well in their h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uses, where they are then dwelling, as in the common Goales, which they are alwayes to hold in ward, and not to goe at at large out of their houses, or the aforesaid Coun<g ref="char:EOLhyphen"/>tors.</p>
+               <p>
+                  <note place="margin">Of plaints betw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en Mar<g ref="char:EOLhyphen"/>chants, and Marchants.</note>
+                  <hi>Item,</hi> In plaints of debt and accounts, and other per<g ref="char:EOLhyphen"/>sonall contracts between Merchants and Merchants, if the plaintiffes counts that the defendant at any Merchandizing Village or in a place merchandable within the Realme did bargain for, and buy of the same plaintiffe some merchandises, or received his money to pay and deliver unto him, or to render ac<g ref="char:EOLhyphen"/>count in any place within the said City. And if the parties be attravers,<note place="margin">note this well.</note> and plead to issue of enquest, then shall the enquest bee taken of the people of the said City, and of the merchandizing town, where the contract is supposed, to this intent, that such mer<g ref="char:EOLhyphen"/>chants passing, may have notice of the said contract.</p>
+               <p>
+                  <note place="margin">Of the same.</note>
+                  <hi>Item,</hi> The Sheriffes of <hi>London</hi> have alwayes used to hold pleas before them betweene what merchants soever, where both parties are Merchants, of all bar<g ref="char:EOLhyphen"/>gaines and personall contracts, which touch mer<g ref="char:EOLhyphen"/>chandize made beyond Sea, at the merchandizing towne, or place merchandizeable, where the bargaines and contracts are made by expresse words upon pay<g ref="char:EOLhyphen"/>ment, or delivery of the merchandize, or to render ac<g ref="char:EOLhyphen"/>count
+<pb n="51" facs="tcp:176640:27"/> within the said city of <hi>London.</hi> And in such a case of the parties discend to an issue of Enquest, then shall the enquest be taken of men remaining within the same city, <hi>viz.</hi> of Merchants travelling, that use to passe over the Sea, which best may have knowledge of the aforesaid bargaines and contracts.<note place="margin">Of those which with<g ref="char:EOLhyphen"/>draw them<g ref="char:EOLhyphen"/>selves out of the City.</note>
+               </p>
+               <p>And if any forreign Merchant and Alien be party to the plea, and such enquest be to be taken, then the Merchant Alien shall have the moity of the Enquest of his own Country men &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> If a plaint of debt be made▪ and it is testified by the Minister that the defendant is not resiant with<g ref="char:EOLhyphen"/>in the City that he hath absented himself, and carayed away his goods. And it is testified, that he hath land<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or tenements within the City, then at the pursuit of the plaintiffe the plaintiffe ought to hold them by the same extent, untill hee be satisfied of his money due unto him, finding sureties to uphold the tenements conveniently, and also to repay the defendant the mo<g ref="char:EOLhyphen"/>ney received in the mean time, if it be so that the same defendant come in Court of Record within a yeare and a day after the delivery made, and can discharge himself, that he oweth nothing to the plaintiffe.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Examinati<g ref="char:EOLhyphen"/>on in a plea Personall.</note> The Sheriffes use to examine the parties in all actions personall depending before them, if any of the parties desire the same, and to proceed to judgment, according as it is found by examination.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of the same</note> Where any per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onall action is depending be<g ref="char:EOLhyphen"/>fore either of the said Sheriffes, and some matter is al<g ref="char:EOLhyphen"/>ledged by the defendant in barre of the action▪ or a thing materiall to delay the plaintiffe. And if the plain<g ref="char:EOLhyphen"/>tiffe puts himself upon the oath of the defendant pe<g ref="char:EOLhyphen"/>remptorily, that the plea or the exception given by the same defendant is not true, then the said defen<g ref="char:EOLhyphen"/>dant if he be in Court, or if hee bee resiant within the City, &amp; that he may conveniently come, by the discre<g ref="char:EOLhyphen"/>tion
+<pb n="52" facs="tcp:176640:28"/> of the Court, then he shall make his oath that his plea or exception that he hath given is good &amp; true. And if he come and refuse to make such an oath, then he shall be held as convict in the cause, and thereupon the plaintiffe shall recover that which lyeth in de<g ref="char:EOLhyphen"/>mand, according as it may be found by examination of the plaintiffe, or by enquest of office, if need bee. And if he make the oath, the plaintiffe shall be outed of his suit or action, if hee for his part will not sweare that the suite or other matter alledged by him is not good and true.</p>
+               <p>And if such an oath be required of the plaintiffe, and the plaintiffe take the oath, hee shall recover by the same oath if the exception be materiall, and so are such oaths peremptory, of the one part, and of the o<g ref="char:EOLhyphen"/>ther, according to the matter of the Exceptions.</p>
+               <p>
+                  <note place="margin">Of default after mayn<g ref="char:EOLhyphen"/>prise.</note>
+                  <hi>Item,</hi> If a man be arrested by a plaint of debt, or by other personall action and find surety to be ready at the next Court, before the Shrieffes to answer to the Party: At which Court although the defendant be demanded in convenient time, to come and save his maynprise and he make default, and the default be recorded, yet if the same defendant come sitting the same Court, he shall be received to plead, saving that in such a case he shall lose the advantage of his Law-wager, although he might have had his law, if hee had come in time.</p>
+               <p>
+                  <note place="margin">Of amen<g ref="char:EOLhyphen"/>ding Bills.</note>
+                  <hi>Item,</hi> Where parties appeare in the Sheriffes Court the usage is that the plaintiffes may amend their plaints, and their Bills, before that the said parties bee at issue, or plead to judgment in Court of Record.</p>
+               <p>
+                  <hi>Item,</hi> In an action of account<note place="margin">Action of account.</note> before the Sheriffes, the plaintiffe by usage of the City may not count that the defendant was his Bayliffe in any case, but Receiver of his money, or of his goods.</p>
+               <p>
+                  <hi>Item,</hi> An action of account is maintainable by usage
+<pb n="53" facs="tcp:176640:28"/> against a woman sole, and against Infants within age, if they be Merchants, or if they keepe common shops of trade, or of Merchandize. And actions of debt in the same manner of that which toucheth their trade, or their merchandizes.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of plaints removed out of the Shrieffes Courts.</note> Where pleas are depending before the She<g ref="char:EOLhyphen"/>riffes the usage is alwayes, that the Mayor of <hi>London,</hi> that is for the time may send to the Sheriffes to cause the complaint and the processe to be brought before him and their Aldermen, to determine and discusse the same complaint before them, or to send back the said complaint before the same Sheriffes, further to proceed in the said processe, according to that which the Mayor and Aldermen shall see fitting to be done, and to command the Sheriffes to surcease at their wills.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Where the debtter shall be arrested be<g ref="char:EOLhyphen"/>fore the day conteined in the obligation Of fugitive.</note> When a debtor is bound within the said city by obligation in a certain summe, to pay at a certaine day to come, the which debtor was held sufficient at the time when he was bound, and after is become fu<g ref="char:EOLhyphen"/>gitive, or not sufficient, then if the creditor come be<g ref="char:EOLhyphen"/>fore the Mayor or Sheriffes of the said City, making such a suggestion, and hath with him sixe or four cre<g ref="char:EOLhyphen"/>dible men of the same City that will truly testifie that the debtor will withdraw, and convey his goods out of the City, or that hee is not sufficient to make pay<g ref="char:EOLhyphen"/>ment, then the Mayor, or one of the Sheriffes before whom the suggestion is made, useth to arrest the deb<g ref="char:EOLhyphen"/>tor, although the day contained within the obligation be not yet come, and to keepe the same debtor in pri<g ref="char:EOLhyphen"/>son, untill the day of payment be come, or otherwise, that hee shall find pledges to attend at the same day, and so to arrest for Houshire before the day, if the tenant be fugitive.<note place="margin">Houshire To arrest a debtor without a sergeant.</note>
+               </p>
+               <p>
+                  <hi>Item,</hi> If a Freeman of the City find his debtor sud<g ref="char:EOLhyphen"/>denly within the same City, which debtor hath ab<g ref="char:EOLhyphen"/>sented
+<pb n="54" facs="tcp:176640:29"/> himself before, or that he be fugitive, and the which debtor will escape away, before that the credi<g ref="char:EOLhyphen"/>tor can have an officer, the usage is in such a case that the Freeman himself, with ayd of his neighbors with<g ref="char:EOLhyphen"/>out other off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cer, may arrest his debtor, and carry him to the office of one of the Sheriffes, and there make his suit, as the law requires, &amp;c.</p>
+               <p>
+                  <note place="margin">Of amerci<g ref="char:EOLhyphen"/>ments.</note>
+                  <hi>Item,</hi> Touching the amerciaments taken upon the plaints in the Courts of the Sheriffes, it is used, if the demand be of 40. s. or under, to take 4. d. and if they passe 40. s. the usage is to take 12. d. for the amercia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <note place="margin">Of Land<g ref="char:EOLhyphen"/>lords.</note>
+                  <hi>Item,</hi> If a lessee within the City be fugitive, or ab<g ref="char:EOLhyphen"/>sent himself, whereby his goods within the house bee arrested, yet the lessor called the Landlord, shall bee served before all others for the rent of the house, be<g ref="char:EOLhyphen"/>ing behind by two yeares, and for so much money, goods shall be left within the said house, to the use of the said Landlord.</p>
+               <p>
+                  <note place="margin">Of giving warning to the Landlord.</note>And although that such a Farmer within the said City commit Fellony, or other contempt, for which his goods and chattels are arrestable, and subject to forfeiture, yet the lessor, by usage of the City shall be paid for his rent behind, by two yeares as is aforesaid, of the goods found within the same house.</p>
+               <p>
+                  <note place="margin">Warning to the Tenant.</note>
+                  <hi>Item,</hi> Where there be tenants within the City hol<g ref="char:EOLhyphen"/>ding at will, and will go out of their houses▪ and sur<g ref="char:EOLhyphen"/>render the same up, they shall give warning to the lessor befyre their departure, <hi>viz.</hi> of the houses that they have to farme for 40. s. rent, and under they shall give warning by a quarter of a yeare before the de<g ref="char:EOLhyphen"/>parture, at the perill of the tenant.</p>
+               <p>
+                  <note place="margin">Of Executi<g ref="char:EOLhyphen"/>on at the choise of the plaintiffe.</note>And in the same manner warning shall be given to the tenant, if the lessor will put out the tenant &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> When a man is condemned at the parties suit in debt, or in dammages before the Sheriffes, the par<g ref="char:EOLhyphen"/>ty
+<pb n="55" facs="tcp:176640:29"/> that hath so recovered may make choyce to have the body of him which is condemned, committed to prison, untill he hath made an agreement, or to have of his goods▪ at his perill.</p>
+               <p>
+                  <hi>Item,</hi> The pledges and Maynparnors,<note place="margin">
+                     <p>Of Maynper<g ref="char:EOLhyphen"/>nors, and At<g ref="char:EOLhyphen"/>torneys receiv<g ref="char:EOLhyphen"/>ed in the Coun<g ref="char:EOLunhyphen"/>ters.</p>
+                     <p>Of Attor<g ref="char:EOLhyphen"/>nies.</p>
+                  </note> and Attornies taken and received within the Sheriffes Countors, and other processe there made are held to be of record, as well as at the Courts holden within Guildhall.</p>
+               <p>
+                  <hi>Item,</hi> Every Alderman of <hi>London</hi> may by usage, re<g ref="char:EOLhyphen"/>cord Attornies in pleas, depending in the Sheriffes Courts, and else-where in the Hustings, and in the Chamber.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of day given to the Enquest</note> When an Enquest between parties is joy<g ref="char:EOLhyphen"/>ned, and sworn before the Sheriffes in pleas personall, if the parties will agree, the Court by usage may give day to the Enquest, to advise themselves of their ver<g ref="char:EOLhyphen"/>dict, untill some day ensuing, in manner as the parties may accord, and that at the perill of the plaintiffe, if any Juror dye, or any other case happen in the meane time.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">The amerci<g ref="char:EOLhyphen"/>ments of In<g ref="char:EOLhyphen"/>roes.</note> The Jurors which are summoned in an En<g ref="char:EOLhyphen"/>quest, are not to be amerced, although they make de<g ref="char:EOLhyphen"/>fault above 3. d. but if they tarry long, and will not come, the Sheriffes by usage may shut up their doors, and constrain them to come.</p>
+               <p>
+                  <hi>Item,</hi> The Enquests of office<note place="margin">Enquest of Office.</note> which are taken by the Sheriffee to enquire of frayes and batteries made a<g ref="char:EOLhyphen"/>gainst the Peace, are not traversable by new Enquest by usage, but at the parties suite, every party shall make his answer, notwithstanding the Enquest of of<g ref="char:EOLhyphen"/>fice.</p>
+               <p>
+                  <hi>Item,</hi> It is to be understood, that there be many o<g ref="char:EOLhyphen"/>ther points and usages touching the Sheriffs Courts, whereof a man cannot have remembrance of all &amp;c.</p>
+               <p>
+                  <hi>Item,</hi>
+                  <note place="margin">Of generall Aicornies.</note> That all generall Att<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnies made and recei<g ref="char:EOLhyphen"/>ved within the Countors of the Sheriffes of <hi>London,</hi>
+                  <pb n="46" facs="tcp:176640:30"/> are held to be upon record, as well as if they were ta<g ref="char:EOLhyphen"/>ken at the Courts held at Guild-hall. And such At<g ref="char:EOLhyphen"/>tornies are and ought to be entred in the grand pa<g ref="char:EOLhyphen"/>per of the aforesaid Sheriffes, for the fee thereof due, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> That none shall offer any injury, in deed nor word to the Sergeants, or to the Bayliffes of the said City, nor that none disturbe them in doing execution of judgments, attaches, distresses, or other things which pertaine to Bayliffes, or Sergeants to doe and which are commanded them, upon pain of imprison<g ref="char:EOLhyphen"/>ment, and to make ransome, according as the custome willeth to be done.</p>
+               <p>Whereupon, as to the taking of the said salt the action lyeth,<note place="margin">Custome for Citizens to buy and sell in publicke &amp; open places.</note> not for that the City of <hi>London</hi> is an an<g ref="char:EOLhyphen"/>cient City of the King of <hi>England</hi> that now is. And that in the said City there is held, and time out of mind, whereof the memory of man is not to the con<g ref="char:EOLhyphen"/>trary, hath been holden a common Market every ho<g ref="char:EOLhyphen"/>lyday, as well for the Citizens of the said City, as for all other men whomsoever, to buy and to fell all, and all manner of things and merchandizes, in all publike and open places within the said City, and the Suburbs and Liberties of the same: so that one of the contra<g ref="char:EOLhyphen"/>ctors be a Freeman of the said City of <hi>London.</hi> And the said defendant saith, that as to the trespasse, when, &amp;c. <hi>A.B.</hi> was possessed of the said salt, and hee so be<g ref="char:EOLhyphen"/>ing of the said salt possessed, &amp;c. that is to say, on the 20. day of <hi>March,</hi> &amp;c. in the fifth yeare of the King that now is, being a holyday, the said <hi>A.B.</hi> in one o<g ref="char:EOLhyphen"/>pen place, <hi>viz.</hi> in an open shop of the defendants scit<g ref="char:EOLhyphen"/>uate in the parish of St. &amp;c. <hi>London</hi> aforesaid, of the said City of <hi>London,</hi> openly did sell to the aforesaid defendant, the aforesaid salt and the cover thereof for 10 l. which the said defendant to the said <hi>A. B.</hi> then
+<pb n="57" facs="tcp:176640:30"/> and there did pay. By reason whereof, the said defen<g ref="char:EOLhyphen"/>dant in the time and place where the trespasse is sup<g ref="char:EOLhyphen"/>posed to be done, &amp;c. the said Salt and his Cover then and there took, and carryed the same away as lawfull it was, &amp;c. which said taking and carrying away of the said Salt and Cover are the same taking and car<g ref="char:EOLhyphen"/>rying away of the said Salt and Cover, whereof the said plaintiffe, &amp;c. And the said plaintiffe by his afore<g ref="char:EOLhyphen"/>said Attorney cometh and requireth according to the cuistome of the said City of <hi>London,</hi> how the said de<g ref="char:EOLhyphen"/>fendant is a Free man of the said City.</p>
+               <p>And the said defendant by his Attorney aforesaid, saith, that by his Apprenticeship, that the Twentieth day of <hi>May,</hi> in the Seventeenth Yeare of the Raigne of King <hi>H.</hi> 8. Hee by the Name of <hi>Thomas Barne</hi> of <hi>Dale</hi> in the County of <hi>Liecester</hi> Husbandman, was Apprentice unto <hi>Iohn Ward</hi> Citizen, Alderman and Grocer of <hi>London,</hi> and in his Apprenticeship, stood according to the custome of the said City, and admit<g ref="char:EOLhyphen"/>ted into the liberty of the said City, and sworne in the time of <hi>Iohn Rudston,</hi> then Mayor of the said Ci<g ref="char:EOLhyphen"/>ty, and <hi>Iohn Husse,</hi> then Chamberlaine thereto and entred in the booke, which is signed with the letter <hi>M.</hi> of the buyings and admissions of Freemen as of Record before the said Chamberlaine fully appea<g ref="char:EOLhyphen"/>reth.</p>
+               <p>Moreover, that the said Defendant will verifie, that the said <hi>Iohn Batemanson,</hi> in the narration and plaint aforesaid nominated, and the said <hi>I.B.</hi> in the said Re<g ref="char:EOLhyphen"/>cord, before the said <hi>I. H.</hi> Chamberlaine nominated, are one, and the same person, and not divers, and as well by the name of <hi>I. B.</hi> as by the name of <hi>I. B.</hi> al<g ref="char:EOLhyphen"/>wayes hitherto knowne and called, and so hee saith, &amp;c.</p>
+               <p>And the said Defendant saith, that he is a Feeman of
+<pb n="58" facs="tcp:176640:31"/> of the said City of <hi>London,</hi> by his Apprenticeship, ac<g ref="char:EOLhyphen"/>cording to the custome.</p>
+               <p>All and every which matters, he the said defendant is ready to verifie, as the Court, &amp;c. and demandeth if the aforesaid defendant, &amp;c.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="59" facs="tcp:176640:31"/>
+            <head>The King to His well-beloved, and faith<g ref="char:EOLhyphen"/>full <hi>William Merre, Adam</hi> of <hi>Sho<g ref="char:EOLhyphen"/>penhange,</hi> and io <hi>Walter</hi> of <hi>Paden<g ref="char:EOLhyphen"/>ham,</hi> assigned for the assessing of the tal<g ref="char:EOLhyphen"/>lage, or customes, within Our Cities, Burroughes, and Demeasnes, within the County of <hi>Oxon,</hi> greeting.</head>
+            <p>OUR Citizens and Merchants of Our Cty of <hi>London,</hi> have shewed to us,<note place="margin">In the white book the <hi>3.</hi> part of the <hi>3.</hi> book f. <hi>50.</hi>
+               </note>
+            </p>
+            <p>That whereas some of them have aused to bee brought divers their goods and marchandizes from <hi>London</hi> unto <hi>Henley,</hi> in the County aforesaid, there to bee sold upon Market dayes, and with them to trade from week to week.</p>
+            <p>And that some of them buy diver Goods and
+<pb n="59" facs="tcp:176640:32"/> Merchandizes in the parts there adjoyning, to bee brought to <hi>LONDON,</hi> for their profit to be made thereby.</p>
+            <p>And they hire little houses and places in the said Towne of <hi>Henley,</hi> from tearme to tearme, as well for the foresaid goods and merchandizes brought thither, to be laid up untill they may conveniently sell the same.</p>
+            <p>As also, for the aforesaid goods and merchandizes bought there in the said parts, to bee laid up untill conveniently they may carry the same from thence.</p>
+            <p>And any certaine houses, or Lands, or Tenements there they have not; neither make they any abode in the same place; neither are they in Scot and Lot with the men of the same towne.</p>
+            <p>Yea, neverthelesse, Ye by occasion of such their houses, places, and goods, and their merchandizes so put in the same, doe thereupon very unjustly distreine them the said Citizens and Merchants to pay Tallage for Custome) as if they had their Houses, and lands, and tenements, and made their continuall abode, or were in Scot and Lot with the said men; to the great dammage and burden of the said Citizens and Mar<g ref="char:EOLhyphen"/>chants,</p>
+            <p>And because it is not agreeable to Right, that Our said Citizens and Marchants in the said case should be taxed wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the men aforesaid, especially seeing that they may freely exercize their Merchandizes throughout all Our Kingdome, &amp;c. are taxed for their Marchandizes in Our City aforesaid, wiih their fel<g ref="char:EOLhyphen"/>ow Citizens there, as often as any tallage (or cu<g ref="char:EOLhyphen"/>stome) shall happen to be assessed upon the Com<g ref="char:EOLhyphen"/>monalty of that City.</p>
+            <p>Wee command you, that you doe not assesse them Our said Marchants and Citizens, with the men a<g ref="char:EOLhyphen"/>for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid
+<pb n="61" facs="tcp:176640:32"/> in the case aforesaid. But that you suffer them in this behalfe, to be in peace so long, notwithstanding as there shal not be other cause, wherefore they ought to be seized there.</p>
+            <closer>
+               <dateline>
+                  <hi>Witnesse my Selfe at</hi> Westminster, <date>
+                     <hi>the</hi> xiij. <hi>Day of</hi> February, <hi>in the</hi> vi. <hi>Yeare of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="items">
+            <p>
+               <hi>Item.</hi>
+            </p>
+            <p>That no Carter within the Franchize,<note place="margin">In the same ook the <hi>4.</hi> part f. <hi>16.</hi> B. side For driving of Carts.</note> drive his Cart any faster when it is empty, then when it is la<g ref="char:EOLunhyphen"/>den, for eschewing of divers perills and grievances, upon paine of forty pence to the Chamber, and his body to prison at the will of the Mayor.</p>
+            <p>
+               <hi>Item.</hi>
+            </p>
+            <p>For that the course of the Water of Thames,<note place="margin">In the same booke the <hi>4.</hi> purt. fol. <hi>6.</hi> B. side.</note> which wholly appertaineth to the City, is greatly disturbed by the purpresture of the keyes, and other adjesments made in the said water, to the great perill and dam<g ref="char:EOLhyphen"/>mage of the whole City.</p>
+            <p>And for the eschewing of greater perils and dam<g ref="char:EOLhyphen"/>mages in time to come, It is ordained by the Mayor and Aldermen, with the assent of the Commons, That hereafter no purpresture shall be made by the making
+<pb n="62" facs="tcp:176640:33"/> of Keyes, nor in any other manner upon the Water of Thames, without view of the Mayor and Alder<g ref="char:EOLhyphen"/>men, and Commons, and unlesse their opinion and judgments be, that such purpresture wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not bee unto the danger or hinderance of the City.</p>
+         </div>
+         <div type="table">
+            <pb facs="tcp:176640:33"/>
+            <head>A TABLE OF Sundry Offices and Roomes in the City of <hi>LONDON,</hi> within the Lord Majors guift.</head>
+            <list>
+               <item>ALvegers, Searchers, and Sealers of <hi>Woollen Cloth.</hi>
+               </item>
+               <item>Attorney ship in the <hi>Sheriffes Court.</hi>
+               </item>
+               <item>Baker of the <hi>Bridge house.</hi>
+               </item>
+               <item>Bayliffe of the Hundred of <hi>Osalston.</hi>
+               </item>
+               <item>Bal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wick of <hi>Southwark.</hi>
+               </item>
+               <item>Beadleship of the <hi>Court of Request.</hi>
+               </item>
+               <item>Bell man.</item>
+               <item>Clarkeship of the Lord Mayors Court.</item>
+               <pb n="59" facs="tcp:176640:34"/>
+               <item>Clarkeship of the Papers.</item>
+               <item>Clarkship of the Chamber.</item>
+               <item>Clarkship of the Counters.</item>
+               <item>Clarkship of the Bridghouse</item>
+               <item>Clarkship of the works &amp; reparation stuffe.</item>
+               <item>Clarkship of the Court of Request.</item>
+               <item>Clarkship of the Commissioners for the in<g ref="char:EOLhyphen"/>largment of Prisoners in execution in the Counters.</item>
+               <item>Clark of Bridewell.</item>
+               <item>Clarkship of Blackwell Hall.</item>
+               <item>Clarkship of the Commissioners for inlarg<g ref="char:EOLhyphen"/>ment of prisoners in the Kings Bench.</item>
+               <item>Common Sarientship.</item>
+               <item>Common Pleaders.</item>
+               <item>Common Hunt.</item>
+               <item>Common Cryers.</item>
+               <item>Common Controler.</item>
+               <item>Comptroler of the Chamber.</item>
+               <item>Collector of Scavage</item>
+               <item>Collectors of Wheeleage on London Bridg.</item>
+               <item>Conduit at Dowgate drawing watter.</item>
+               <item>Forrintaker.</item>
+               <item>Gauger of Wines and Oyle.</item>
+               <item>Keeper of Blackwell Hall.</item>
+               <pb n="65" facs="tcp:176640:34"/>
+               <item>Keeper of the Store-house in Blackwell Hall.</item>
+               <item>Keeper of Worsted Hall▪</item>
+               <item>Keeper of Bay-Hall.</item>
+               <item>Keeper of the Conduit at Newgate.</item>
+               <item>Keeper-ship of Ludgate,</item>
+               <item>Keeper ship of Newgate.</item>
+               <item>Keeper-ship of the Counters.</item>
+               <item>Keeper of the Counters in Southwarke.</item>
+               <item>Keeper of Bothlen.</item>
+               <item>Keeper of the Sessions house.</item>
+               <item>Keeper cleane of the Market, and Market-house in Newgate Market, and Collectors of duties there.</item>
+               <item>Keeper of the New-buriall place.</item>
+               <item>Keepers of the Wood and Coles for the poor in severall places.</item>
+               <item>Measurage of Silkes, Cloth, and Linnen.</item>
+               <item>Meat-weighers.</item>
+               <item>Measurage of Cottons.</item>
+               <item>Measurage of Bayes.</item>
+               <item>Packer ship.</item>
+               <item>Prothonotoriship.</item>
+               <item>Portership of Blackwell Hall.</item>
+               <pb n="66" facs="tcp:176640:35"/>
+               <item>Portership of the Bridge house.</item>
+               <item>Remembrancer.</item>
+               <item>Renter-ship of the Bridge-house.</item>
+               <item>Renter-ship of Finsbury.</item>
+               <item>Sword-bearer.</item>
+               <item>Second-biriship.</item>
+               <item>Solicitorship.</item>
+               <item>
+                  <hi>3</hi> Sergeant Carvers.</item>
+               <item>
+                  <hi>3</hi> Sergeants of the Chamber.</item>
+               <item>Sergeant of the Channel.</item>
+               <item>Stewardship of <hi>Southwark.</hi>
+               </item>
+               <item>Stewardship of <hi>Finsbury.</hi>
+               </item>
+               <item>Town Clarkeship,</item>
+               <item>Under Sherifwick.</item>
+               <item>Under Water-Bayley.</item>
+               <item>Weigher of Raw-silkes.</item>
+               <item>Walter Bayly.</item>
+               <item>
+                  <hi>2</hi> Yeomen of the <hi>Chamber.</hi>
+               </item>
+               <item>
+                  <hi>4</hi> Yeomen of the Water-side.</item>
+               <item>Yeomen of the <hi>Channell.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> Young men.</item>
+            </list>
+         </div>
+         <div type="list_of_profits">
+            <pb n="67" facs="tcp:176640:35"/>
+            <head>PROFITS TO Be received by the Lord Mayor yearly, and other Profits arising other<g ref="char:EOLhyphen"/>wise.</head>
+            <div type="part">
+               <head>Scavage.</head>
+               <p>IT appeareth by severall Acts of Courts of the Lord Mayor and Aldermen, one taken <hi>Anno</hi> 4. <hi>E.</hi> 4. another taken, <hi>Anno</hi> 6. <hi>E.</hi> 4. by an Act of Parliament, 19. <hi>H.</hi> 7. <hi>Cap.</hi> 8. and by other Acts of Court, and by continuall usage, that the Moity of the Profits, of the Office of Collection of Scavage, is due to the Lord Ma<g ref="char:EOLhyphen"/>jor.</p>
+            </div>
+            <div type="part">
+               <head>Measurage of Linnen Cloth and Silke.</head>
+               <list>
+                  <item>
+                     <hi>Item,</hi> There is yearly due, and paid to the Lord Major of the Profits of the Officers of
+<pb n="68" facs="tcp:176640:36"/> Measurage of Linnen Cloth and Silke, which is collected by vertue of an Act of Common-Councell, made <hi>An.</hi> 4.5. <hi>P. M.</hi> l. <hi>.l</hi>
+                  </item>
+                  <item>
+                     <hi>Item,</hi> By vertue of an Act of Com<g ref="char:EOLhyphen"/>mon-Councell, made <hi>Anno</hi> 4. 5. <hi>Pet. M.</hi> and of Orders of Court, <hi>Anno</hi> 4. 5. <hi>Pet. M.</hi> there is to be paid to the Lord Ma<g ref="char:EOLhyphen"/>jor, toward the Feast kept at Guild-hall. l. <hi>l.</hi>
+                  </item>
+                  <item>
+                     <hi>Item,</hi> There is paid yearly out of the Chamber, in respect of Wax-herrings, and Sturgion, which was wont to be yeil<g ref="char:EOLhyphen"/>ded to him by the Marchants of the Still-yard. 5.<hi>l.</hi> 5.<hi>s.</hi> 8.<hi>d.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Wines.</head>
+               <p>
+                  <hi>Item,</hi> Paid by the Chamberlain year<g ref="char:EOLhyphen"/>ly, in respect of 4 Tons of Wine, some<g ref="char:EOLhyphen"/>times allowed to the Lord Major, to cause his right of making six Free-men in his yeare. 80.<hi>l.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Major Sheriffes.</head>
+               <list>
+                  <item>Presenting Mr. Sheriffe at the Exche<g ref="char:EOLhyphen"/>quer. 18. 16 8. <hi>d.</hi>
+                  </item>
+                  <item>Packer yearly, <hi>per annum.</hi> 100 <hi>marks.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Cole-Meators.</head>
+               <list>
+                  <item>Cole-Meators yearly, 10. <hi>l.</hi> a piece, and since this rate appointed, these places yeeld a greater summe. 7 <hi>eild, per an<g ref="char:EOLhyphen"/>num,</hi> 80.<hi>l. a piece,</hi>
+                  </item>
+                  <item>The two last of the Anucientest are to be disposed for the Profit of the cham<g ref="char:EOLhyphen"/>ber. 3. <hi>per an.</hi> 10.<hi>l. a piece. Gawning</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:176640:36"/>
+               <head>Gawning.</head>
+               <p>
+                  <hi>Gawning,</hi> besides the Rent to the Chamber.</p>
+               <p>The Escheatership for <hi>London.</hi>
+               </p>
+               <p>The Escheatership for <hi>Southwark.</hi>
+               </p>
+               <p>The profit of the office of the Cockets.</p>
+               <p>Reversion of five offices to be granted yearly at the request of the Lord Major to have one of them, which shall first fall, or of foure; and the Clarkship of the Lord Majors Court, a part by it self, to be granted to one of the Under-clarks, serving in the same Court, after hee shall have served their seven yeares.</p>
+               <p>The Clarkship of the Court of Con<g ref="char:EOLhyphen"/>science to be granted to the under-clark of the Lord Majors Court. 180.<hi>l</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
